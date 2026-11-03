@@ -1,0 +1,1 @@
+"""Okna aplikacji PySide6."""

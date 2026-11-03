@@ -1,0 +1,24 @@
+{
+  "sets": [
+    {
+      "name": "Przyładowy zestaw pytań nr. 1",
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "name": "Przyładowy zestaw pytań nr. 2",
+      "question_numbers": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    }
+  ]
+}

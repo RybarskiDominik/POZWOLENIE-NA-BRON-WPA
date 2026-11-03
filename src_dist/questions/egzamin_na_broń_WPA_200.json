@@ -1,0 +1,2608 @@
+{
+  "questions_title": "Egzamin na broń WPA - 200 pytań",
+  "questions_file": "Eegzamin_na_broń_WPA_200.json",
+  "explanations_title": "Egzamin na broń WPA - 200 pytań podstawy prawne",
+  "explanations_file": "egzamin_na_broń_WPA_200_podstawy_prawne.json",
+  "questions": [
+    {
+      "number": 1,
+      "question": "Bronią, w rozumieniu ustawy o broni i amunicji, nie jest:",
+      "legal_basis": "(art. 4 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 4 ust. 1",
+      "correct_answer_ids": [{"id": "001_03", "label_id": "c"}],
+      "answers": [
+        {"id": "001_01", "label_id": "a", "text": "broń palna", "is_correct": false},
+        {"id": "001_02", "label_id": "b", "text": "broń pneumatyczna", "is_correct": false},
+        {"id": "001_03", "label_id": "c", "text": "broń ostra", "is_correct": true}
+      ]
+    },
+    {
+      "number": 2,
+      "question": "Bronią, w rozumieniu ustawy o broni i amunicji, jest:",
+      "legal_basis": "(art. 4 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 4 ust. 1",
+      "correct_answer_ids": [{"id": "002_01", "label_id": "a"}],
+      "answers": [
+        {"id": "002_01", "label_id": "a", "text": "miotacz gazu obezwładniającego", "is_correct": true},
+        {"id": "002_02", "label_id": "b", "text": "miotacz gazu łzawiącego", "is_correct": false},
+        {"id": "002_03", "label_id": "c", "text": "miotacz gazu pieprzowego", "is_correct": false}
+      ]
+    },
+    {
+      "number": 3,
+      "question": "Bronią, w rozumieniu ustawy o broni i amunicji, nie jest:",
+      "legal_basis": "(art. 4 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 4 ust. 1",
+      "correct_answer_ids": [{"id": "003_02", "label_id": "b"}],
+      "answers": [
+        {"id": "003_01", "label_id": "a", "text": "kastet", "is_correct": false},
+        {"id": "003_02", "label_id": "b", "text": "nóż", "is_correct": true},
+        {"id": "003_03", "label_id": "c", "text": "pałka wykonana z drewna lub innego ciężkiego i twardego materiału, imitująca kij bejsbolowy", "is_correct": false}
+      ]
+    },
+    {
+      "number": 4,
+      "question": "Bronią, w rozumieniu ustawy o broni i amunicji, jest:",
+      "legal_basis": "(art. 4 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 4 ust. 1",
+      "correct_answer_ids": [{"id": "004_03", "label_id": "c"}],
+      "answers": [
+        {"id": "004_01", "label_id": "a", "text": "broń cięciwowa w postaci łuku", "is_correct": false},
+        {"id": "004_02", "label_id": "b", "text": "proca", "is_correct": false},
+        {"id": "004_03", "label_id": "c", "text": "broń cięciwowa w postaci kuszy", "is_correct": true}
+      ]
+    },
+    {
+      "number": 5,
+      "question": "Amunicją, w rozumieniu ustawy o broni i amunicji są:",
+      "legal_basis": "(art. 4 ust. 3 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 4 ust. 3",
+      "correct_answer_ids": [{"id": "005_01", "label_id": "a"}],
+      "answers": [
+        {"id": "005_01", "label_id": "a", "text": "naboje przeznaczone do strzelania z broni palnej", "is_correct": true},
+        {"id": "005_02", "label_id": "b", "text": "naboje przeznaczone do strzelania z broni pneumatycznej", "is_correct": false},
+        {"id": "005_03", "label_id": "c", "text": "wszystkie naboje, bez względu na ich przeznaczenie", "is_correct": false}
+      ]
+    },
+    {
+      "number": 6,
+      "question": "Istotną częścią broni palnej, w rozumieniu ustawy o broni i amunicji, nie jest:",
+      "legal_basis": "(art. 5 ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 5 ust. 2",
+      "correct_answer_ids": [{"id": "006_03", "label_id": "c"}],
+      "answers": [
+        {"id": "006_01", "label_id": "a", "text": "komora zamkowa", "is_correct": false},
+        {"id": "006_02", "label_id": "b", "text": "lufa z komorą nabojową", "is_correct": false},
+        {"id": "006_03", "label_id": "c", "text": "magazynek", "is_correct": true}
+      ]
+    },
+    {
+      "number": 7,
+      "question": "Istotną częścią broni palnej, w rozumieniu ustawy o broni i amunicji, jest:",
+      "legal_basis": "(art. 5 ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 5 ust. 2",
+      "correct_answer_ids": [{"id": "007_03", "label_id": "c"}],
+      "answers": [
+        {"id": "007_01", "label_id": "a", "text": "szczerbinka", "is_correct": false},
+        {"id": "007_02", "label_id": "b", "text": "sprężyna powrotna", "is_correct": false},
+        {"id": "007_03", "label_id": "c", "text": "szkielet broni", "is_correct": true}
+      ]
+    },
+    {
+      "number": 8,
+      "question": "Istotną częścią broni palnej, w rozumieniu ustawy o broni i amunicji, nie jest:",
+      "legal_basis": "(art. 5 ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 5 ust. 2",
+      "correct_answer_ids": [{"id": "008_01", "label_id": "a"}],
+      "answers": [
+        {"id": "008_01", "label_id": "a", "text": "tłumik", "is_correct": true},
+        {"id": "008_02", "label_id": "b", "text": "lufa z komorą nabojową", "is_correct": false},
+        {"id": "008_03", "label_id": "c", "text": "zamek", "is_correct": false}
+      ]
+    },
+    {
+      "number": 9,
+      "question": "Istotną częścią broni palnej, w rozumieniu ustawy o broni i amunicji, nie jest:",
+      "legal_basis": "(art. 5 ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 5 ust. 2",
+      "correct_answer_ids": [{"id": "009_02", "label_id": "b"}],
+      "answers": [
+        {"id": "009_01", "label_id": "a", "text": "baskila", "is_correct": false},
+        {"id": "009_02", "label_id": "b", "text": "kolba", "is_correct": true},
+        {"id": "009_03", "label_id": "c", "text": "zamek", "is_correct": false}
+      ]
+    },
+    {
+      "number": 10,
+      "question": "Istotną częścią broni palnej, w rozumieniu ustawy o broni i amunicji, jest:",
+      "legal_basis": "(art. 5 ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 5 ust. 2",
+      "correct_answer_ids": [{"id": "010_01", "label_id": "a"}],
+      "answers": [
+        {"id": "010_01", "label_id": "a", "text": "bęben nabojowy", "is_correct": true},
+        {"id": "010_02", "label_id": "b", "text": "rękojeść", "is_correct": false},
+        {"id": "010_03", "label_id": "c", "text": "muszka", "is_correct": false}
+      ]
+    },
+    {
+      "number": 11,
+      "question": "Istotną częścią amunicji, w rozumieniu ustawy o broni i amunicji, jest:",
+      "legal_basis": "(art. 5 ust. 3 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 5 ust. 3",
+      "correct_answer_ids": [{"id": "011_02", "label_id": "b"}],
+      "answers": [
+        {"id": "011_01", "label_id": "a", "text": "śrut strzelecki", "is_correct": false},
+        {"id": "011_02", "label_id": "b", "text": "materiał miotający w postaci prochu strzelniczego", "is_correct": true},
+        {"id": "011_03", "label_id": "c", "text": "odpowiedzi a. i b. są nieprawidłowe", "is_correct": false}
+      ]
+    },
+    {
+      "number": 12,
+      "question": "Istotną częścią amunicji, w rozumieniu ustawy o broni i amunicji, nie jest:",
+      "legal_basis": "(art. 5 ust. 3 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 5 ust. 3",
+      "correct_answer_ids": [{"id": "012_03", "label_id": "c"}],
+      "answers": [
+        {"id": "012_01", "label_id": "a", "text": "spłonka inicjująca spalanie materiału miotającego", "is_correct": false},
+        {"id": "012_02", "label_id": "b", "text": "pocisk wypełniony materiałami wybuchowymi, chemicznymi środkami obezwładniającymi lub zapalającymi albo innymi substancjami, których działanie zagraża życiu lub zdrowiu", "is_correct": false},
+        {"id": "012_03", "label_id": "c", "text": "łuska łącząca w całość inne elementy naboju", "is_correct": true}
+      ]
+    },
+    {
+      "number": 13,
+      "question": "Dokonywanie przeróbek broni zmieniających jej rodzaj, kaliber lub przeznaczenie, bez wymaganego zezwolenia, jest:",
+      "legal_basis": "(art. 6 ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 6 ust. 2",
+      "correct_answer_ids": [{"id": "013_02", "label_id": "b"}],
+      "answers": [
+        {"id": "013_01", "label_id": "a", "text": "wykroczeniem", "is_correct": false},
+        {"id": "013_02", "label_id": "b", "text": "przestępstwem", "is_correct": true},
+        {"id": "013_03", "label_id": "c", "text": "odpowiedzi a. i b. są nieprawidłowe", "is_correct": false}
+      ]
+    },
+    {
+      "number": 14,
+      "question": "Dokonywanie przeróbek broni zmieniających jej rodzaj, kaliber lub przeznaczenie, bez wymaganego zezwolenia, jest:",
+      "legal_basis": "(art. 6 ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 6 ust. 2",
+      "correct_answer_ids": [{"id": "014_02", "label_id": "b"}],
+      "answers": [
+        {"id": "014_01", "label_id": "a", "text": "dozwolone wyłącznie wówczas, gdy posiadacz pozwolenia na broń jest uprawniony do posiadania również broni, która powstanie po przeróbce", "is_correct": false},
+        {"id": "014_02", "label_id": "b", "text": "zabronione", "is_correct": true},
+        {"id": "014_03", "label_id": "c", "text": "dozwolone wyłącznie wówczas, gdy zezwala na to specyfikacja techniczna broni, a dokonana przeróbka nie wpłynie na bezpieczeństwo podczas używania broni", "is_correct": false}
+      ]
+    },
+    {
+      "number": 15,
+      "question": "Bronią palną, w rozumieniu ustawy o broni i amunicji, jest:",
+      "legal_basis": "(art. 7 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 7 ust. 1",
+      "correct_answer_ids": [{"id": "015_01", "label_id": "a"}],
+      "answers": [
+        {"id": "015_01", "label_id": "a", "text": "broń lufowa, która jest przenośna", "is_correct": true},
+        {"id": "015_02", "label_id": "b", "text": "broń lufowa, która jest stacjonarna", "is_correct": false},
+        {"id": "015_03", "label_id": "c", "text": "odpowiedzi a. i b. są prawidłowe", "is_correct": false}
+      ]
+    },
+    {
+      "number": 16,
+      "question": "Bronią palną, w rozumieniu ustawy o broni i amunicji, jest:",
+      "legal_basis": "(art. 7 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 7 ust. 1",
+      "correct_answer_ids": [{"id": "016_02", "label_id": "b"}],
+      "answers": [
+        {"id": "016_01", "label_id": "a", "text": "broń, która jest przystosowana do miotania jednego lub większej liczby pocisków w wyniku działania sprężonego gazu", "is_correct": false},
+        {"id": "016_02", "label_id": "b", "text": "broń, która jest przystosowana do miotania jednego lub większej liczby pocisków w wyniku działania materiału miotającego", "is_correct": true},
+        {"id": "016_03", "label_id": "c", "text": "broń, która jest przystosowana do miotania jednego lub większej liczby pocisków w wyniku działania energii elektrycznej", "is_correct": false}
+      ]
+    },
+    {
+      "number": 17,
+      "question": "Bronią palną, w rozumieniu ustawy o broni i amunicji nie jest:",
+      "legal_basis": "(art. 7 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 7 ust. 1",
+      "correct_answer_ids": [{"id": "017_02", "label_id": "b"}],
+      "answers": [
+        {"id": "017_01", "label_id": "a", "text": "strzebla gładkolufowa", "is_correct": false},
+        {"id": "017_02", "label_id": "b", "text": "karabinek pneumatyczny", "is_correct": true},
+        {"id": "017_03", "label_id": "c", "text": "pistolet sygnałowy", "is_correct": false}
+      ]
+    },
+    {
+      "number": 18,
+      "question": "Bronią palną sygnałową, w rozumieniu ustawy o broni i amunicji, jest urządzenie wielokrotnego użycia, które w wyniku działania sprężonych gazów, powstających na skutek spalania materiału miotającego, jest zdolne do wystrzelenia substancji w postaci ładunku pirotechnicznego celem wywołania efektu wizualnego lub akustycznego z lufy o kalibrze:",
+      "legal_basis": "(art. 7 ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 7 ust. 2",
+      "correct_answer_ids": [{"id": "018_01", "label_id": "a"}],
+      "answers": [
+        {"id": "018_01", "label_id": "a", "text": "nie mniejszym niż 25 mm", "is_correct": true},
+        {"id": "018_02", "label_id": "b", "text": "nie mniejszym niż 12 mm", "is_correct": false},
+        {"id": "018_03", "label_id": "c", "text": "nie mniejszym niż 6 mm", "is_correct": false}
+      ]
+    },
+    {
+      "number": 19,
+      "question": "Bronią palną alarmową, w rozumieniu ustawy o broni i amunicji, jest:",
+      "legal_basis": "(art. 7 ust. 3 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 7 ust. 3",
+      "correct_answer_ids": [{"id": "019_03", "label_id": "c"}],
+      "answers": [
+        {"id": "019_01", "label_id": "a", "text": "urządzenie wielokrotnego użycia, które w wyniku działania sprężonych gazów, powstających na skutek spalania materiału miotającego, wywołuje efekt wizualny, a wystrzelona z lufy lub elementu ją zastępującego substancja razi cel na odległość nie większą niż 2 metry", "is_correct": false},
+        {"id": "019_02", "label_id": "b", "text": "urządzenie wielokrotnego użycia, które w wyniku działania sprężonych gazów, powstających na skutek spalania materiału miotającego, wywołuje efekt wizualny i akustyczny, a wystrzelona z lufy lub elementu ją zastępującego substancja razi cel na odległość nie większą niż 3 metry", "is_correct": false},
+        {"id": "019_03", "label_id": "c", "text": "urządzenie wielokrotnego użycia, które w wyniku działania sprężonych gazów, powstających na skutek spalania materiału miotającego, wywołuje efekt akustyczny, a wystrzelona z lufy lub elementu ją zastępującego substancja razi cel na odległość nie większą niż 1 metr", "is_correct": true}
+      ]
+    },
+    {
+      "number": 20,
+      "question": "Bronią pneumatyczną, w rozumieniu ustawy o broni i amunicji, jest:",
+      "legal_basis": "(art. 8 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 8",
+      "correct_answer_ids": [{"id": "020_01", "label_id": "a"}],
+      "answers": [
+        {"id": "020_01", "label_id": "a", "text": "urządzenie zdolne do rażenia celów na odległość, pociskiem wystrzeliwanym z lufy lub elementu ją zastępującego z energią kinetyczną przekraczającą 17 J", "is_correct": true},
+        {"id": "020_02", "label_id": "b", "text": "urządzenie zdolne do rażenia celów na odległość, pociskiem wystrzeliwanym z lufy lub elementu ją zastępującego z energią kinetyczną przekraczającą 15 J", "is_correct": false},
+        {"id": "020_03", "label_id": "c", "text": "urządzenie zdolne do rażenia celów na odległość, pociskiem wystrzeliwanym z lufy lub elementu ją zastępującego z energią kinetyczną przekraczającą 13 J", "is_correct": false}
+      ]
+    },
+    {
+      "number": 21,
+      "question": "Pozwolenie na broń palną wydaje:",
+      "legal_basis": "(art. 9 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 9 ust. 1",
+      "correct_answer_ids": [{"id": "021_02", "label_id": "b"}],
+      "answers": [
+        {"id": "021_01", "label_id": "a", "text": "komendant wojewódzki Policji właściwy ze względu na miejsce czasowego pobytu zainteresowanej osoby", "is_correct": false},
+        {"id": "021_02", "label_id": "b", "text": "komendant wojewódzki Policji właściwy ze względu na miejsce stałego pobytu zainteresowanej osoby", "is_correct": true},
+        {"id": "021_03", "label_id": "c", "text": "komendant wojewódzki policji właściwy ze względu na miejsce zameldowania zainteresowanej osoby", "is_correct": false}
+      ]
+    },
+    {
+      "number": 22,
+      "question": "Pozwolenie na broń zwane świadectwem broni wydaje:",
+      "legal_basis": "(art. 9 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 9 ust. 1",
+      "correct_answer_ids": [{"id": "022_01", "label_id": "a"}],
+      "answers": [
+        {"id": "022_01", "label_id": "a", "text": "komendant wojewódzki Policji właściwy ze względu na siedzibę zainteresowanego podmiotu", "is_correct": true},
+        {"id": "022_02", "label_id": "b", "text": "komendant powiatowy Policji właściwy ze względu na siedzibę zainteresowanego podmiotu", "is_correct": false},
+        {"id": "022_03", "label_id": "c", "text": "komendant wojewódzki Policji lub komendant oddziału Żandarmerii Wojskowej, właściwy ze względu na siedzibę zainteresowanego podmiotu", "is_correct": false}
+      ]
+    },
+    {
+      "number": 23,
+      "question": "Kartę rejestracyjną broni pozbawionej cech użytkowych wydaje:",
+      "legal_basis": "(art. 9 ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 9 ust. 2",
+      "correct_answer_ids": [{"id": "023_03", "label_id": "c"}],
+      "answers": [
+        {"id": "023_01", "label_id": "a", "text": "komendant wojewódzki Policji właściwy ze względu na miejsce czasowego pobytu zainteresowanej osoby", "is_correct": false},
+        {"id": "023_02", "label_id": "b", "text": "komendant wojewódzki policji właściwy ze względu na miejsce zameldowania zainteresowanej osoby", "is_correct": false},
+        {"id": "023_03", "label_id": "c", "text": "komendant wojewódzki Policji właściwy ze względu na miejsce stałego pobytu zainteresowanej osoby", "is_correct": true}
+      ]
+    },
+    {
+      "number": 24,
+      "question": "Pozwolenie na miotacz gazu obezwładniającego wydaje:",
+      "legal_basis": "(art. 9 ust. 3 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 9 ust. 3",
+      "correct_answer_ids": [{"id": "024_01", "label_id": "a"}],
+      "answers": [
+        {"id": "024_01", "label_id": "a", "text": "komendant powiatowy Policji właściwy ze względu na miejsce stałego pobytu zainteresowanej osoby", "is_correct": true},
+        {"id": "024_02", "label_id": "b", "text": "komendant powiatowy Policji właściwy ze względu na miejsce czasowego pobytu zainteresowanej osoby", "is_correct": false},
+        {"id": "024_03", "label_id": "c", "text": "komendant powiatowy Policji właściwy ze względu na miejsce zameldowania zainteresowanej osoby", "is_correct": false}
+      ]
+    },
+    {
+      "number": 25,
+      "question": "Kartę rejestracyjną broni pneumatycznej wydaje:",
+      "legal_basis": "(art. 9 ust. 4 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 9 ust. 4",
+      "correct_answer_ids": [{"id": "025_02", "label_id": "b"}],
+      "answers": [
+        {"id": "025_01", "label_id": "a", "text": "komendant powiatowy Policji właściwy ze względu na miejsce czasowego pobytu zainteresowanej osoby", "is_correct": false},
+        {"id": "025_02", "label_id": "b", "text": "komendant powiatowy Policji właściwy ze względu na miejsce stałego pobytu zainteresowanej osoby", "is_correct": true},
+        {"id": "025_03", "label_id": "c", "text": "komendant powiatowy Policji właściwy ze względu na miejsce zameldowania zainteresowanej osoby", "is_correct": false}
+      ]
+    },
+    {
+      "number": 26,
+      "question": "Pozwolenie na broń wydawane jest:",
+      "legal_basis": "(art. 9 ust. 6 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 9 ust. 6",
+      "correct_answer_ids": [{"id": "026_01", "label_id": "a"}],
+      "answers": [
+        {"id": "026_01", "label_id": "a", "text": "na czas nieokreślony", "is_correct": true},
+        {"id": "026_02", "label_id": "b", "text": "na 5 lat", "is_correct": false},
+        {"id": "026_03", "label_id": "c", "text": "na 3 lata", "is_correct": false}
+      ]
+    },
+    {
+      "number": 27,
+      "question": "Dopuszczenie do posiadania broni wydawane jest:",
+      "legal_basis": "(art. 9 ust. 6 i art. 30 ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 9 ust. 6 i art. 30 ust. 2",
+      "correct_answer_ids": [{"id": "027_02", "label_id": "b"}],
+      "answers": [
+        {"id": "027_01", "label_id": "a", "text": "na 5 lat", "is_correct": false},
+        {"id": "027_02", "label_id": "b", "text": "na czas nieokreślony", "is_correct": true},
+        {"id": "027_03", "label_id": "c", "text": "na 3 lata", "is_correct": false}
+      ]
+    },
+    {
+      "number": 28,
+      "question": "Karta rejestracyjna broni palnej pozbawionej cech użytkowych wydawana jest:",
+      "legal_basis": "(art. 9 ust. 6 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 9 ust. 6",
+      "correct_answer_ids": [{"id": "028_03", "label_id": "c"}],
+      "answers": [
+        {"id": "028_01", "label_id": "a", "text": "na 3 lata", "is_correct": false},
+        {"id": "028_02", "label_id": "b", "text": "na 5 lat", "is_correct": false},
+        {"id": "028_03", "label_id": "c", "text": "na czas nieokreślony", "is_correct": true}
+      ]
+    },
+    {
+      "number": 29,
+      "question": "Karta rejestracyjna broni pneumatycznej wydawana jest:",
+      "legal_basis": "(art. 9 ust. 6 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 9 ust. 6",
+      "correct_answer_ids": [{"id": "029_01", "label_id": "a"}],
+      "answers": [
+        {"id": "029_01", "label_id": "a", "text": "na czas nieokreślony", "is_correct": true},
+        {"id": "029_02", "label_id": "b", "text": "na 3 lata", "is_correct": false},
+        {"id": "029_03", "label_id": "c", "text": "na 5 lat", "is_correct": false}
+      ]
+    },
+    {
+      "number": 30,
+      "question": "Pozwolenie na broń palną bojową wydane w celu ochrony osobistej stanowi jednocześnie pozwolenie na:",
+      "legal_basis": "(art. 9 ust. 7 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 9 ust. 7",
+      "correct_answer_ids": [{"id": "030_02", "label_id": "b"}],
+      "answers": [
+        {"id": "030_01", "label_id": "a", "text": "broń sportową", "is_correct": false},
+        {"id": "030_02", "label_id": "b", "text": "broń gazową i alarmową", "is_correct": true},
+        {"id": "030_03", "label_id": "c", "text": "broń alarmową i sygnałową", "is_correct": false}
+      ]
+    },
+    {
+      "number": 31,
+      "question": "Legitymację osoby dopuszczonej do posiadania broni wydaje:",
+      "legal_basis": "(art. 9 ust. 8 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 9 ust. 8",
+      "correct_answer_ids": [{"id": "031_01", "label_id": "a"}],
+      "answers": [
+        {"id": "031_01", "label_id": "a", "text": "komendant wojewódzki Policji właściwy ze względu na miejsce stałego pobytu zainteresowanej osoby", "is_correct": true},
+        {"id": "031_02", "label_id": "b", "text": "komendant wojewódzki Policji właściwy ze względu na miejsce czasowego pobytu zainteresowanej osoby", "is_correct": false},
+        {"id": "031_03", "label_id": "c", "text": "komendant wojewódzki Policji właściwy ze względu na miejsce zameldowania zainteresowanej osoby", "is_correct": false}
+      ]
+    },
+    {
+      "number": 32,
+      "question": "Świadectwo broni w myśl ustawy o broni i amunicji to:",
+      "legal_basis": "(art. 9 ust. 8 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 9 ust. 8",
+      "correct_answer_ids": [{"id": "032_03", "label_id": "c"}],
+      "answers": [
+        {"id": "032_01", "label_id": "a", "text": "certyfikat producenta broni, umożliwiający jej bezpieczne użytkowanie", "is_correct": false},
+        {"id": "032_02", "label_id": "b", "text": "potwierdzenie, że jednostka broni nie była rejestrowana kryminalistycznie", "is_correct": false},
+        {"id": "032_03", "label_id": "c", "text": "pozwolenie na broń na okaziciela", "is_correct": true}
+      ]
+    },
+    {
+      "number": 33,
+      "question": "Właściwy organ Policji wydaje pozwolenie na broń jeżeli:",
+      "legal_basis": "(art. 10 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 10 ust. 1",
+      "correct_answer_ids": [{"id": "033_01", "label_id": "a"}],
+      "answers": [
+        {"id": "033_01", "label_id": "a", "text": "wnioskodawca przedstawi ważną przyczynę posiadania broni", "is_correct": true},
+        {"id": "033_02", "label_id": "b", "text": "wnioskodawca przedstawi zaświadczenie lekarskie o stanie zdrowia", "is_correct": false},
+        {"id": "033_03", "label_id": "c", "text": "wnioskodawca posiada warunki do przechowywania broni", "is_correct": false}
+      ]
+    },
+    {
+      "number": 34,
+      "question": "Właściwy organ Policji wydaje pozwolenie na broń jeżeli:",
+      "legal_basis": "(art. 10 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 10 ust. 1",
+      "correct_answer_ids": [{"id": "034_03", "label_id": "c"}],
+      "answers": [
+        {"id": "034_01", "label_id": "a", "text": "wnioskodawca nie stanowi zagrożenia dla samego siebie", "is_correct": false},
+        {"id": "034_02", "label_id": "b", "text": "wnioskodawca nie stanowi zagrożenia dla porządku lub bezpieczeństwa publicznego", "is_correct": false},
+        {"id": "034_03", "label_id": "c", "text": "odpowiedzi a. i b. są prawidłowe", "is_correct": true}
+      ]
+    },
+    {
+      "number": 35,
+      "question": "Za ważną przyczynę posiadania broni do celów ochrony osobistej uważa się w szczególności:",
+      "legal_basis": "(art. 10. ust. 3 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 10. ust. 3",
+      "correct_answer_ids": [{"id": "035_01", "label_id": "a"}],
+      "answers": [
+        {"id": "035_01", "label_id": "a", "text": "stałe, realne i ponadprzeciętne zagrożenie życia, zdrowia lub mienia", "is_correct": true},
+        {"id": "035_02", "label_id": "b", "text": "zatrudnienie jako kwalifikowany pracownik ochrony fizycznej", "is_correct": false},
+        {"id": "035_03", "label_id": "c", "text": "poczucie zagrożenia w związku z pełnioną służbą", "is_correct": false}
+      ]
+    },
+    {
+      "number": 36,
+      "question": "Za ważną przyczynę posiadania broni do celów łowieckich uważa się w szczególności:",
+      "legal_basis": "(art. 10. ust. 3 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 10. ust. 3",
+      "correct_answer_ids": [{"id": "036_02", "label_id": "b"}],
+      "answers": [
+        {"id": "036_01", "label_id": "a", "text": "posiadanie licencji Polskiego Związku Łowieckiego", "is_correct": false},
+        {"id": "036_02", "label_id": "b", "text": "posiadanie uprawnień do wykonywania polowania, ustalonych na podstawie odrębnych przepisów", "is_correct": true},
+        {"id": "036_03", "label_id": "c", "text": "zaświadczenie o przynależności do koła łowieckiego", "is_correct": false}
+      ]
+    },
+    {
+      "number": 37,
+      "question": "Za ważną przyczynę posiadania broni do celów sportowych uważa się w szczególności:",
+      "legal_basis": "(art. 10. ust. 3 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 10. ust. 3",
+      "correct_answer_ids": [{"id": "037_03", "label_id": "c"}],
+      "answers": [
+        {"id": "037_01", "label_id": "a", "text": "udokumentowane uczestnictwo w strzeleckich zawodach sportowych", "is_correct": false},
+        {"id": "037_02", "label_id": "b", "text": "posiadanie zezwolenia właściwego polskiego związku strzeleckiego na udział w strzeleckich zawodach sportowych", "is_correct": false},
+        {"id": "037_03", "label_id": "c", "text": "udokumentowane członkostwo w stowarzyszeniu o charakterze strzeleckim, posiadanie kwalifikacji sportowych oraz licencji właściwego polskiego związku strzeleckiego", "is_correct": true}
+      ]
+    },
+    {
+      "number": 38,
+      "question": "Za ważną przyczynę posiadania broni do celów rekonstrukcji historycznych uważa się w szczególności:",
+      "legal_basis": "(art. 10. ust. 3 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 10. ust. 3",
+      "correct_answer_ids": [{"id": "038_01", "label_id": "a"}],
+      "answers": [
+        {"id": "038_01", "label_id": "a", "text": "udokumentowane członkostwo w stowarzyszeniu, którego statutowym celem jest organizowanie rekonstrukcji historycznych oraz zaświadczenie potwierdzające czynny udział w działalności statutowej", "is_correct": true},
+        {"id": "038_02", "label_id": "b", "text": "udokumentowane członkostwo w stowarzyszeniu o charakterze paramilitarnym", "is_correct": false},
+        {"id": "038_03", "label_id": "c", "text": "udokumentowany udział w przedsięwzięciach o charakterze historycznym", "is_correct": false}
+      ]
+    },
+    {
+      "number": 39,
+      "question": "Za ważną przyczynę posiadania broni do celów kolekcjonerskich uważa się w szczególności:",
+      "legal_basis": "(art. 10. ust. 3 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 10. ust. 3",
+      "correct_answer_ids": [{"id": "039_02", "label_id": "b"}],
+      "answers": [
+        {"id": "039_01", "label_id": "a", "text": "udokumentowane członkostwo w stowarzyszeniu, którego statutowym celem jest organizowanie rekonstrukcji historycznych", "is_correct": false},
+        {"id": "039_02", "label_id": "b", "text": "udokumentowane członkostwo w stowarzyszeniu o charakterze kolekcjonerskim", "is_correct": true},
+        {"id": "039_03", "label_id": "c", "text": "udokumentowany udział w ogólnokrajowych wystawach kolekcjonerów broni", "is_correct": false}
+      ]
+    },
+    {
+      "number": 40,
+      "question": "Za ważną przyczynę posiadania broni do celów pamiątkowych uważa się w szczególności:",
+      "legal_basis": "(art. 10. ust. 3 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 10. ust. 3",
+      "correct_answer_ids": [{"id": "040_01", "label_id": "a"}],
+      "answers": [
+        {"id": "040_01", "label_id": "a", "text": "udokumentowane nabycie broni w drodze spadku, darowizny lub wyróżnienia", "is_correct": true},
+        {"id": "040_02", "label_id": "b", "text": "udokumentowany zakup broni historycznej", "is_correct": false},
+        {"id": "040_03", "label_id": "c", "text": "odpowiedzi a. i b. są nieprawidłowe", "is_correct": false}
+      ]
+    },
+    {
+      "number": 41,
+      "question": "Za ważną przyczynę posiadania broni do celów szkoleniowych uważa się w szczególności:",
+      "legal_basis": "(art. 10. ust. 3 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 10. ust. 3",
+      "correct_answer_ids": [{"id": "041_03", "label_id": "c"}],
+      "answers": [
+        {"id": "041_01", "label_id": "a", "text": "posiadanie licencji strzeleckiej związku strzeleckiego", "is_correct": false},
+        {"id": "041_02", "label_id": "b", "text": "zaświadczenie o prowadzeniu strzelnicy", "is_correct": false},
+        {"id": "041_03", "label_id": "c", "text": "udokumentowane zarejestrowanie działalności gospodarczej w zakresie szkoleń strzeleckich i posiadanie uprawnień do prowadzenia szkoleń strzeleckich", "is_correct": true}
+      ]
+    },
+    {
+      "number": 42,
+      "question": "Na podstawie pozwolenia na broń wydanego w celu ochrony osobistej nie można posiadać:",
+      "legal_basis": "(art. 10 ust. 4 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 10 ust. 4",
+      "correct_answer_ids": [{"id": "042_01", "label_id": "a"}],
+      "answers": [
+        {"id": "042_01", "label_id": "a", "text": "pistoletu bocznego zapłonu z lufą gwintowaną o kalibrze do 6 mm", "is_correct": true},
+        {"id": "042_02", "label_id": "b", "text": "rewolweru centralnego zapłonu z lufą gwintowaną o kalibrze od 6 mm do 12 mm", "is_correct": false},
+        {"id": "042_03", "label_id": "c", "text": "miotacza gazu obezwładniającego", "is_correct": false}
+      ]
+    },
+    {
+      "number": 43,
+      "question": "Na podstawie pozwolenia na broń wydanego do celów łowieckich nie można posiadać:",
+      "legal_basis": "(art. 10 ust. 4 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 10 ust. 4",
+      "correct_answer_ids": [{"id": "043_02", "label_id": "b"}],
+      "answers": [
+        {"id": "043_01", "label_id": "a", "text": "strzelby powtarzalnej o kalibrze wagomiarowym 12", "is_correct": false},
+        {"id": "043_02", "label_id": "b", "text": "pistoletu bocznego zapłonu z lufą gwintowaną o kalibrze do 6 mm", "is_correct": true},
+        {"id": "043_03", "label_id": "c", "text": "karabinu centralnego zapłonu z lufą gwintowaną o kalibrze do 12 mm", "is_correct": false}
+      ]
+    },
+    {
+      "number": 44,
+      "question": "Na podstawie pozwolenia na broń wydanego w celu sportowym nie można posiadać:",
+      "legal_basis": "(art. 10 ust. 4 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 10 ust. 4",
+      "correct_answer_ids": [{"id": "044_03", "label_id": "c"}],
+      "answers": [
+        {"id": "044_01", "label_id": "a", "text": "karabinu centralnego zapłonu z lufą gwintowaną o kalibrze do 12 mm", "is_correct": false},
+        {"id": "044_02", "label_id": "b", "text": "rewolweru przystosowanego do strzelania wyłącznie przy pomocy prochu czarnego (dymnego)", "is_correct": false},
+        {"id": "044_03", "label_id": "c", "text": "pistoletu sygnałowego", "is_correct": true}
+      ]
+    },
+    {
+      "number": 45,
+      "question": "Na podstawie pozwolenia na broń wydanego w celu szkoleniowym nie można posiadać:",
+      "legal_basis": "(art. 10 ust. 4 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 10 ust. 4",
+      "correct_answer_ids": [{"id": "045_03", "label_id": "c"}],
+      "answers": [
+        {"id": "045_01", "label_id": "a", "text": "karabinu centralnego zapłonu z lufą gwintowaną o kalibrze do 12 mm", "is_correct": false},
+        {"id": "045_02", "label_id": "b", "text": "rewolweru przystosowanego do strzelania wyłącznie przy pomocy prochu czarnego (dymnego)", "is_correct": false},
+        {"id": "045_03", "label_id": "c", "text": "broni alarmowej albo innej broni palnej, konstrukcyjnie przeznaczonej do strzelania wyłącznie amunicją ślepą, w tym samoczynnej", "is_correct": true}
+      ]
+    },
+    {
+      "number": 46,
+      "question": "Na podstawie pozwolenia na broń wydanego w celu kolekcjonerskim lub pamiątkowym można posiadać:",
+      "legal_basis": "(art. 10 ust. 4 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 10 ust. 4",
+      "correct_answer_ids": [{"id": "046_03", "label_id": "c"}],
+      "answers": [
+        {"id": "046_01", "label_id": "a", "text": "pistolet sygnałowy", "is_correct": false},
+        {"id": "046_02", "label_id": "b", "text": "broń alarmową albo inną broń palną, konstrukcyjnie przeznaczoną do strzelania wyłącznie amunicją ślepą, w tym samoczynną", "is_correct": false},
+        {"id": "046_03", "label_id": "c", "text": "odpowiedzi a. i b. są prawidłowe", "is_correct": true}
+      ]
+    },
+    {
+      "number": 47,
+      "question": "Bronią szczególnie niebezpieczną, w rozumieniu ustawy o broni i amunicji, nie jest:",
+      "legal_basis": "(art. 10 ust. 5 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 10 ust. 5",
+      "correct_answer_ids": [{"id": "047_01", "label_id": "a"}],
+      "answers": [
+        {"id": "047_01", "label_id": "a", "text": "broń palna z wymienną lufą", "is_correct": true},
+        {"id": "047_02", "label_id": "b", "text": "samoczynna broń palna zdolna do rażenia celów na odległość", "is_correct": false},
+        {"id": "047_03", "label_id": "c", "text": "broń palna wytworzona lub przerobiona w sposób pozwalający na zatajenie jej przeznaczenia, a także broń imitująca inne przedmioty", "is_correct": false}
+      ]
+    },
+    {
+      "number": 48,
+      "question": "Bronią szczególnie niebezpieczną, w rozumieniu ustawy o broni i amunicji, nie jest:",
+      "legal_basis": "(art. 10 ust. 5 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 10 ust. 5",
+      "correct_answer_ids": [{"id": "048_02", "label_id": "b"}],
+      "answers": [
+        {"id": "048_01", "label_id": "a", "text": "broń palna wyposażona w tłumik huku lub przystosowana do strzelania z użyciem tłumika huku", "is_correct": false},
+        {"id": "048_02", "label_id": "b", "text": "strzelba gładkolufowa posiadająca więcej niż jedną lufę", "is_correct": true},
+        {"id": "048_03", "label_id": "c", "text": "broń palna, której nie można wykryć przy pomocy urządzeń przeznaczonych do kontroli osób i bagażu", "is_correct": false}
+      ]
+    },
+    {
+      "number": 49,
+      "question": "Amunicją szczególnie niebezpieczną, w rozumieniu ustawy o broni i amunicji jest:",
+      "legal_basis": "(art. 10 ust. 6 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 10 ust. 6",
+      "correct_answer_ids": [{"id": "049_03", "label_id": "c"}],
+      "answers": [
+        {"id": "049_01", "label_id": "a", "text": "amunicja z pociskami pełnopłaszczowymi zawierającymi rdzeń wykonany z materiału twardszego niż stop ołowiu", "is_correct": false},
+        {"id": "049_02", "label_id": "b", "text": "amunicja z pociskami wypełnionymi materiałami wybuchowymi, zapalającymi albo innymi substancjami, których działanie zagraża życiu lub zdrowiu oraz pociski do takiej amunicji", "is_correct": false},
+        {"id": "049_03", "label_id": "c", "text": "odpowiedź a. i b. są prawidłowe", "is_correct": true}
+      ]
+    },
+    {
+      "number": 50,
+      "question": "Posiadanie amunicji wytworzonej niefabrycznie, w tym takiej, do której wytworzenia wykorzystywane są fabrycznie nowe elementy amunicji, na własny użytek jest:",
+      "legal_basis": "(art. 10 ust. 6 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 10 ust. 6",
+      "correct_answer_ids": [{"id": "050_02", "label_id": "b"}],
+      "answers": [
+        {"id": "050_01", "label_id": "a", "text": "zabronione", "is_correct": false},
+        {"id": "050_02", "label_id": "b", "text": "dozwolone przez osoby posiadające pozwolenie na broń kolekcjonerską", "is_correct": true},
+        {"id": "050_03", "label_id": "c", "text": "dozwolone przez osoby posiadające pozwolenie na broń szkoleniową", "is_correct": false}
+      ]
+    },
+    {
+      "number": 51,
+      "question": "Właściwy organ Policji może w pozwoleniu na broń ograniczyć lub wykluczyć możliwość noszenia broni:",
+      "legal_basis": "(art. 10 ust. 7 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 10 ust. 7",
+      "correct_answer_ids": [{"id": "051_01", "label_id": "a"}],
+      "answers": [
+        {"id": "051_01", "label_id": "a", "text": "co potwierdza się w legitymacji posiadacza broni", "is_correct": true},
+        {"id": "051_02", "label_id": "b", "text": "tylko w przypadku broni posiadanej na pozwolenie do celów kolekcjonerskich, co potwierdza się w legitymacji posiadacza broni", "is_correct": false},
+        {"id": "051_03", "label_id": "c", "text": "możliwości noszenia broni nie można ograniczyć lub wykluczyć", "is_correct": false}
+      ]
+    },
+    {
+      "number": 52,
+      "question": "Noszenie broni bez zgody właściwego organu Policji jest zabronione w przypadku broni posiadanej na podstawie pozwolenia do celów:",
+      "legal_basis": "(art. 10 ust. 8 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 10 ust. 8",
+      "correct_answer_ids": [{"id": "052_02", "label_id": "b"}],
+      "answers": [
+        {"id": "052_01", "label_id": "a", "text": "rekonstrukcji historycznych lub kolekcjonerskich", "is_correct": false},
+        {"id": "052_02", "label_id": "b", "text": "kolekcjonerskich lub pamiątkowych", "is_correct": true},
+        {"id": "052_03", "label_id": "c", "text": "pamiątkowych lub szkoleniowych", "is_correct": false}
+      ]
+    },
+    {
+      "number": 53,
+      "question": "Noszenie broni, w rozumieniu ustawy o broni i amunicji to:",
+      "legal_basis": "(art. 10 ust. 9 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 10 ust. 9",
+      "correct_answer_ids": [{"id": "053_01", "label_id": "a"}],
+      "answers": [
+        {"id": "053_01", "label_id": "a", "text": "każdy sposób przemieszczania załadowanej broni przez osobę posiadającą broń", "is_correct": true},
+        {"id": "053_02", "label_id": "b", "text": "każdy sposób przemieszczania przeładowanej broni przez osobę posiadającą broń", "is_correct": false},
+        {"id": "053_03", "label_id": "c", "text": "każdy sposób przemieszczania broni przez osobę posiadającą broń", "is_correct": false}
+      ]
+    },
+    {
+      "number": 54,
+      "question": "Europejską kartę broni palnej wydaje:",
+      "legal_basis": "(art. 10a ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 10a ust. 1",
+      "correct_answer_ids": [{"id": "054_03", "label_id": "c"}],
+      "answers": [
+        {"id": "054_01", "label_id": "a", "text": "komendant wojewódzki Policji właściwy ze względu na miejsce zameldowania osoby zainteresowanej", "is_correct": false},
+        {"id": "054_02", "label_id": "b", "text": "komendant wojewódzki Policji właściwy ze względu na miejsce czasowego pobytu osoby zainteresowanej", "is_correct": false},
+        {"id": "054_03", "label_id": "c", "text": "komendant wojewódzki Policji właściwy ze względu na miejsce stałego pobytu osoby zainteresowanej", "is_correct": true}
+      ]
+    },
+    {
+      "number": 55,
+      "question": "Właściwy organ Policji wydaje Europejską kartę broni palnej:",
+      "legal_basis": "(art. 10a ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 10a ust. 1",
+      "correct_answer_ids": [{"id": "055_03", "label_id": "c"}],
+      "answers": [
+        {"id": "055_01", "label_id": "a", "text": "na wniosek osoby posiadającej broń palną zgodnie z wymogami prawa polskiego", "is_correct": false},
+        {"id": "055_02", "label_id": "b", "text": "na wniosek organizacji sportowej, osobie wskazanej przez ten podmiot oraz posiadającej dopuszczenie do posiadania broni", "is_correct": false},
+        {"id": "055_03", "label_id": "c", "text": "odpowiedzi a. i b. są prawidłowe", "is_correct": true}
+      ]
+    },
+    {
+      "number": 56,
+      "question": "Europejską kartę broni palnej wydaje się na okres:",
+      "legal_basis": "(art. 10a ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 10a ust. 2",
+      "correct_answer_ids": [{"id": "056_01", "label_id": "a"}],
+      "answers": [
+        {"id": "056_01", "label_id": "a", "text": "do 5 lat", "is_correct": true},
+        {"id": "056_02", "label_id": "b", "text": "do 3 lat", "is_correct": false},
+        {"id": "056_03", "label_id": "c", "text": "do 7 lat", "is_correct": false}
+      ]
+    },
+    {
+      "number": 57,
+      "question": "Po upływie okresu ważności Europejskiej karty broni palnej:",
+      "legal_basis": "(art. 10a ust. 3 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 10a ust. 3",
+      "correct_answer_ids": [{"id": "057_02", "label_id": "b"}],
+      "answers": [
+        {"id": "057_01", "label_id": "a", "text": "należy ją zwrócić", "is_correct": false},
+        {"id": "057_02", "label_id": "b", "text": "jej ważność może być przedłużona na kolejny okres", "is_correct": true},
+        {"id": "057_03", "label_id": "c", "text": "należy ją wymienić", "is_correct": false}
+      ]
+    },
+    {
+      "number": 58,
+      "question": "Europejska karta broni palnej traci ważność i podlega zwrotowi:",
+      "legal_basis": "(art. 10a ust. 4 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 10a ust. 4",
+      "correct_answer_ids": [{"id": "058_01", "label_id": "a"}],
+      "answers": [
+        {"id": "058_01", "label_id": "a", "text": "w przypadku cofnięcia pozwolenia na broń palną lub cofnięcia dopuszczenia do posiadania tego rodzaju broni", "is_correct": true},
+        {"id": "058_02", "label_id": "b", "text": "w przypadku naruszenia obowiązku zawiadomienia właściwego organu Policji o zmianie miejsca stałego pobytu", "is_correct": false},
+        {"id": "058_03", "label_id": "c", "text": "w przypadku naruszenia zakazu użyczania broni osobie nieupoważnionej", "is_correct": false}
+      ]
+    },
+    {
+      "number": 59,
+      "question": "Wpisów do Europejskiej karty broni palnej dokonuje:",
+      "legal_basis": "(art. 10 ust. 7 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 10 ust. 7",
+      "correct_answer_ids": [{"id": "059_03", "label_id": "c"}],
+      "answers": [
+        {"id": "059_01", "label_id": "a", "text": "komendant wojewódzki Policji właściwy ze względu na miejsce zameldowania osoby posiadającej Europejską kartę broni palnej", "is_correct": false},
+        {"id": "059_02", "label_id": "b", "text": "komendant wojewódzki Policji właściwy ze względu na miejsce czasowego pobytu osoby posiadającej Europejską kartę broni palnej", "is_correct": false},
+        {"id": "059_03", "label_id": "c", "text": "komendant wojewódzki Policji właściwy ze względu na miejsce stałego pobytu osoby posiadającej Europejską kartę broni palnej", "is_correct": true}
+      ]
+    },
+    {
+      "number": 60,
+      "question": "Pozwolenia na broń nie wymaga się w przypadku:",
+      "legal_basis": "(art. 11 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 11",
+      "correct_answer_ids": [{"id": "060_02", "label_id": "b"}],
+      "answers": [
+        {"id": "060_01", "label_id": "a", "text": "posiadania przedmiotów przeznaczonych do obezwładniania osób za pomocą energii elektrycznej o średniej wartości prądu w obwodzie przekraczającej 10 mA", "is_correct": false},
+        {"id": "060_02", "label_id": "b", "text": "gromadzenia broni w zbiorach muzealnych na podstawie odrębnych przepisów", "is_correct": true},
+        {"id": "060_03", "label_id": "c", "text": "posiadania broni palnej rozdzielnego ładowania, wytworzonej po roku 1885", "is_correct": false}
+      ]
+    },
+    {
+      "number": 61,
+      "question": "Pozwolenia na broń wymaga się w przypadku:",
+      "legal_basis": "(art. 11 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 11",
+      "correct_answer_ids": [{"id": "061_03", "label_id": "c"}],
+      "answers": [
+        {"id": "061_01", "label_id": "a", "text": "używania broni w celach sportowych, szkoleniowych lub rekreacyjnych na strzelnicy działającej na podstawie zezwolenia właściwego organu", "is_correct": false},
+        {"id": "061_02", "label_id": "b", "text": "używania broni palnej sygnałowej i alarmowej do celów wzywania pomocy, ratowniczych, poszukiwawczych oraz przez osoby uprawnione do sygnalizacji zawodnikom rozpoczęcia konkurencji sportowej w trakcie zawodów sportowych, jeżeli wymaga ona takiej sygnalizacji", "is_correct": false},
+        {"id": "061_03", "label_id": "c", "text": "posiadania broni palnej gazowej", "is_correct": true}
+      ]
+    },
+    {
+      "number": 62,
+      "question": "Pozwolenia na broń nie wymaga się w przypadku:",
+      "legal_basis": "(art. 11 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 11",
+      "correct_answer_ids": [{"id": "062_01", "label_id": "a"}],
+      "answers": [
+        {"id": "062_01", "label_id": "a", "text": "posiadania broni palnej pozbawionej cech użytkowych", "is_correct": true},
+        {"id": "062_02", "label_id": "b", "text": "posiadania broni alarmowej albo innej broni palnej, konstrukcyjnie przeznaczonej do strzelania wyłącznie amunicją ślepą, w tym samoczynnej", "is_correct": false},
+        {"id": "062_03", "label_id": "c", "text": "posiadania broni cięciwowej w postaci kuszy", "is_correct": false}
+      ]
+    },
+    {
+      "number": 63,
+      "question": "Pozwolenia na broń wymaga się w przypadku:",
+      "legal_basis": "(art. 11 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 11",
+      "correct_answer_ids": [{"id": "063_03", "label_id": "c"}],
+      "answers": [
+        {"id": "063_01", "label_id": "a", "text": "posiadania ręcznych miotaczy gazu obezwładniającego", "is_correct": false},
+        {"id": "063_02", "label_id": "b", "text": "posiadania broni pneumatycznej", "is_correct": false},
+        {"id": "063_03", "label_id": "c", "text": "posiadania przedmiotów przeznaczonych do obezwładniania osób za pomocą energii elektrycznej o średniej wartości prądu w obwodzie przekraczającej 10 mA", "is_correct": true}
+      ]
+    },
+    {
+      "number": 64,
+      "question": "Pozwolenia na broń nie wymaga się w przypadku:",
+      "legal_basis": "(art. 11 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 11",
+      "correct_answer_ids": [{"id": "064_01", "label_id": "a"}],
+      "answers": [
+        {"id": "064_01", "label_id": "a", "text": "posiadania broni palnej rozdzielnego ładowania, wytworzonej przed rokiem 1885 oraz replik tej broni", "is_correct": true},
+        {"id": "064_02", "label_id": "b", "text": "posiadania pistoletów sygnałowych", "is_correct": false},
+        {"id": "064_03", "label_id": "c", "text": "posiadania kastetu", "is_correct": false}
+      ]
+    },
+    {
+      "number": 65,
+      "question": "Pozwolenie na broń jest wydawane:",
+      "legal_basis": "(art. 12 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 12",
+      "correct_answer_ids": [{"id": "065_02", "label_id": "b"}],
+      "answers": [
+        {"id": "065_01", "label_id": "a", "text": "w drodze postanowienia", "is_correct": false},
+        {"id": "065_02", "label_id": "b", "text": "w drodze decyzji administracyjnej", "is_correct": true},
+        {"id": "065_03", "label_id": "c", "text": "w drodze zaświadczenia", "is_correct": false}
+      ]
+    },
+    {
+      "number": 66,
+      "question": "W decyzji administracyjnej, przyznającej pozwolenie na broń, określa się:",
+      "legal_basis": "(art. 12 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 12",
+      "correct_answer_ids": [{"id": "066_03", "label_id": "c"}],
+      "answers": [
+        {"id": "066_01", "label_id": "a", "text": "wyłącznie cel w jakim zostało wydane", "is_correct": false},
+        {"id": "066_02", "label_id": "b", "text": "wyłącznie rodzaj i liczbę egzemplarzy broni", "is_correct": false},
+        {"id": "066_03", "label_id": "c", "text": "cel w jakim zostało wydane oraz rodzaj i liczbę egzemplarzy broni", "is_correct": true}
+      ]
+    },
+    {
+      "number": 67,
+      "question": "Zaświadczenie uprawniające do nabycia broni:",
+      "legal_basis": "(art. 12 ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 12 ust. 2",
+      "correct_answer_ids": [{"id": "067_01", "label_id": "a"}],
+      "answers": [
+        {"id": "067_01", "label_id": "a", "text": "wydawane jest na wniosek osoby posiadającej pozwolenie na broń i uprawnia do nabycia broni i amunicji do tej broni", "is_correct": true},
+        {"id": "067_02", "label_id": "b", "text": "wydawane jest z urzędu i uprawnia do nabycia broni i amunicji do tej broni", "is_correct": false},
+        {"id": "067_03", "label_id": "c", "text": "wydawane jest na wniosek osoby posiadającej pozwolenie na broń i uprawnia do nabycia wyłącznie broni", "is_correct": false}
+      ]
+    },
+    {
+      "number": 68,
+      "question": "Zaświadczenie uprawniające do nabycia broni:",
+      "legal_basis": "",
+      "legal_act": "",
+      "legal_reference": "",
+      "correct_answer_ids": [{"id": "068_02", "label_id": "b"}],
+      "answers": [
+        {"id": "068_01", "label_id": "a", "text": "uprawnia do nabycia dowolnej ilości broni", "is_correct": false},
+        {"id": "068_02", "label_id": "b", "text": "uprawnia do nabycia broni w ilości określonej w zaświadczeniu", "is_correct": true},
+        {"id": "068_03", "label_id": "c", "text": "uprawnia do nabycia wyłącznie jednej sztuki broni", "is_correct": false}
+      ]
+    },
+    {
+      "number": 69,
+      "question": "Zaświadczenie uprawniające do nabycia broni jest:",
+      "legal_basis": "",
+      "legal_act": "",
+      "legal_reference": "",
+      "correct_answer_ids": [{"id": "069_03", "label_id": "c"}],
+      "answers": [
+        {"id": "069_01", "label_id": "a", "text": "ważne 30 dni", "is_correct": false},
+        {"id": "069_02", "label_id": "b", "text": "ważne 3 miesiące", "is_correct": false},
+        {"id": "069_03", "label_id": "c", "text": "bezterminowe", "is_correct": true}
+      ]
+    },
+    {
+      "number": 70,
+      "question": "Nabywając broń palną, na której posiadanie wymagane jest pozwolenie, przy użyciu środków porozumiewania się na odległość, przed wydaniem broni nabywca mający miejsce stałego pobytu na terytorium Rzeczypospolitej Polskiej, dostarcza zbywcy mającemu miejsce stałego pobytu na terytorium Rzeczypospolitej Polskiej:",
+      "legal_basis": "(art. 12a ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 12a ust. 2",
+      "correct_answer_ids": [{"id": "070_01", "label_id": "a"}],
+      "answers": [
+        {"id": "070_01", "label_id": "a", "text": "zaświadczenie uprawniające do nabycia broni", "is_correct": true},
+        {"id": "070_02", "label_id": "b", "text": "uprzednią zgodę przewozową", "is_correct": false},
+        {"id": "070_03", "label_id": "c", "text": "zgodę przewozową", "is_correct": false}
+      ]
+    },
+    {
+      "number": 71,
+      "question": "Nabywając broń palną, na której posiadanie wymagane jest pozwolenie, przy użyciu środków porozumiewania się na odległość, przed wydaniem broni nabywca mający miejsce stałego pobytu na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, dostarcza zbywcy mającemu miejsce stałego pobytu na terytorium Rzeczypospolitej Polskiej:",
+      "legal_basis": "(art. 12a ust 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 12a ust 2",
+      "correct_answer_ids": [{"id": "071_02", "label_id": "b"}],
+      "answers": [
+        {"id": "071_01", "label_id": "a", "text": "zgodę przewozową", "is_correct": false},
+        {"id": "071_02", "label_id": "b", "text": "uprzednią zgodę przewozową", "is_correct": true},
+        {"id": "071_03", "label_id": "c", "text": "zaświadczenie uprawniające do nabycia broni", "is_correct": false}
+      ]
+    },
+    {
+      "number": 72,
+      "question": "Nabywca broni obowiązany jest ją zarejestrować:",
+      "legal_basis": "(art. 13 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 13 ust. 1",
+      "correct_answer_ids": [{"id": "072_03", "label_id": "c"}],
+      "answers": [
+        {"id": "072_01", "label_id": "a", "text": "w ciągu 7 dni od dnia nabycia", "is_correct": false},
+        {"id": "072_02", "label_id": "b", "text": "w ciągu 10 dni od dnia nabycia", "is_correct": false},
+        {"id": "072_03", "label_id": "c", "text": "w ciągu 5 dni o dnia nabycia", "is_correct": true}
+      ]
+    },
+    {
+      "number": 73,
+      "question": "Rejestracji broni dokonuje się na podstawie:",
+      "legal_basis": "(art. 13 ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 13 ust. 2",
+      "correct_answer_ids": [{"id": "073_01", "label_id": "a"}],
+      "answers": [
+        {"id": "073_01", "label_id": "a", "text": "dowodu nabycia broni", "is_correct": true},
+        {"id": "073_02", "label_id": "b", "text": "instrukcji obsługi broni", "is_correct": false},
+        {"id": "073_03", "label_id": "c", "text": "karty gwarancyjnej broni", "is_correct": false}
+      ]
+    },
+    {
+      "number": 74,
+      "question": "Rejestracji broni palnej pozbawionej cech użytkowych dokonuje się na podstawie:",
+      "legal_basis": "(art. 13 ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 13 ust. 2",
+      "correct_answer_ids": [{"id": "074_01", "label_id": "a"}],
+      "answers": [
+        {"id": "074_01", "label_id": "a", "text": "dowodu nabycia broni oraz dodatkowo po przedstawieniu potwierdzenia pozbawienia broni palnej cech użytkowych", "is_correct": true},
+        {"id": "074_02", "label_id": "b", "text": "wyłącznie dowodu nabycia broni", "is_correct": false},
+        {"id": "074_03", "label_id": "c", "text": "wyłącznie po przedstawieniu potwierdzenia pozbawienia broni palnej cech użytkowych", "is_correct": false}
+      ]
+    },
+    {
+      "number": 75,
+      "question": "Rejestracji broni palnej dokonuje:",
+      "legal_basis": "(art. 13 ust. 3 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 13 ust. 3",
+      "correct_answer_ids": [{"id": "075_02", "label_id": "b"}],
+      "answers": [
+        {"id": "075_01", "label_id": "a", "text": "komendant wojewódzki Policji właściwy ze względu na miejsce czasowego pobytu osoby posiadającej pozwolenie na broń", "is_correct": false},
+        {"id": "075_02", "label_id": "b", "text": "komendant wojewódzki Policji właściwy ze względu na miejsce stałego pobytu osoby posiadającej pozwolenie na broń", "is_correct": true},
+        {"id": "075_03", "label_id": "c", "text": "komendant wojewódzki Policji właściwy ze względu na miejsce zameldowania osoby posiadającej pozwolenie na broń", "is_correct": false}
+      ]
+    },
+    {
+      "number": 76,
+      "question": "Rejestracji broni palnej pozbawionej cech użytkowych dokonuje:",
+      "legal_basis": "(art. 13 ust. 3 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 13 ust. 3",
+      "correct_answer_ids": [{"id": "076_03", "label_id": "c"}],
+      "answers": [
+        {"id": "076_01", "label_id": "a", "text": "komendant wojewódzki Policji właściwy ze względu na miejsce czasowego pobytu osoby posiadającej broń palną pozbawioną cech użytkowych", "is_correct": false},
+        {"id": "076_02", "label_id": "b", "text": "komendant wojewódzki Policji właściwy ze względu na miejsce zameldowania osoby posiadającej broń palną pozbawioną cech użytkowych", "is_correct": false},
+        {"id": "076_03", "label_id": "c", "text": "komendant wojewódzki Policji właściwy ze względu na miejsce stałego pobytu osoby posiadającej broń palną pozbawioną cech użytkowych", "is_correct": true}
+      ]
+    },
+    {
+      "number": 77,
+      "question": "Rejestracji broni pneumatycznej dokonuje:",
+      "legal_basis": "(art. 13 ust. 3 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 13 ust. 3",
+      "correct_answer_ids": [{"id": "077_02", "label_id": "b"}],
+      "answers": [
+        {"id": "077_01", "label_id": "a", "text": "komendant wojewódzki Policji właściwy ze względu na miejsce stałego pobytu osoby posiadającej broń pneumatyczną", "is_correct": false},
+        {"id": "077_02", "label_id": "b", "text": "komendant powiatowy Policji właściwy ze względu na miejsce stałego pobytu osoby posiadającej broń pneumatyczną", "is_correct": true},
+        {"id": "077_03", "label_id": "c", "text": "komendant komisariatu Policji właściwy ze względu na miejsce stałego pobytu osoby posiadającej broń pneumatyczną", "is_correct": false}
+      ]
+    },
+    {
+      "number": 78,
+      "question": "Rejestracji broni cięciwowej w postaci kuszy dokonuje:",
+      "legal_basis": "(art. 13 ust. 3 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 13 ust. 3",
+      "correct_answer_ids": [{"id": "078_01", "label_id": "a"}],
+      "answers": [
+        {"id": "078_01", "label_id": "a", "text": "komendant powiatowy Policji właściwy ze względu na miejsce stałego pobytu osoby posiadającej pozwolenie na broń", "is_correct": true},
+        {"id": "078_02", "label_id": "b", "text": "komendant powiatowy Policji właściwy ze względu na miejsce czasowego pobytu osoby posiadającej pozwolenie na broń", "is_correct": false},
+        {"id": "078_03", "label_id": "c", "text": "komendant powiatowy Policji właściwy ze względu na miejsce zameldowania osoby posiadającej pozwolenie na broń", "is_correct": false}
+      ]
+    },
+    {
+      "number": 79,
+      "question": "Zarejestrowanie broni wymagającej pozwolenia na broń potwierdza się w:",
+      "legal_basis": "(art. 13 ust. 4 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 13 ust. 4",
+      "correct_answer_ids": [{"id": "079_03", "label_id": "c"}],
+      "answers": [
+        {"id": "079_01", "label_id": "a", "text": "karcie rejestracyjnej broni", "is_correct": false},
+        {"id": "079_02", "label_id": "b", "text": "legitymacji osoby dopuszczonej do posiadania broni", "is_correct": false},
+        {"id": "079_03", "label_id": "c", "text": "legitymacji posiadacza broni", "is_correct": true}
+      ]
+    },
+    {
+      "number": 80,
+      "question": "Zarejestrowanie broni wymagającej pozwolenia na broń potwierdza się w:",
+      "legal_basis": "(art. 13 ust. 4 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 13 ust. 4",
+      "correct_answer_ids": [{"id": "080_01", "label_id": "a"}],
+      "answers": [
+        {"id": "080_01", "label_id": "a", "text": "świadectwie broni", "is_correct": true},
+        {"id": "080_02", "label_id": "b", "text": "legitymacji osoby dopuszczonej do posiadania broni", "is_correct": false},
+        {"id": "080_03", "label_id": "c", "text": "karcie rejestracyjnej broni", "is_correct": false}
+      ]
+    },
+    {
+      "number": 81,
+      "question": "Zarejestrowanie broni palnej pozbawionej cech użytkowych oraz broni pneumatycznej potwierdza się w:",
+      "legal_basis": "(art. 13 ust. 5 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 13 ust. 5",
+      "correct_answer_ids": [{"id": "081_02", "label_id": "b"}],
+      "answers": [
+        {"id": "081_01", "label_id": "a", "text": "legitymacji posiadacza broni, która jest wydawana posiadaczowi broni", "is_correct": false},
+        {"id": "081_02", "label_id": "b", "text": "karcie rejestracyjnej broni, która jest wydawana posiadaczowi broni", "is_correct": true},
+        {"id": "081_03", "label_id": "c", "text": "legitymacji osoby dopuszczonej do posiadania broni, która jest wydawana posiadaczowi broni", "is_correct": false}
+      ]
+    },
+    {
+      "number": 82,
+      "question": "Zarejestrowanie broni palnej pozbawionej cech użytkowych nie może nastąpić na rzecz osoby, która nie ma ukończonych:",
+      "legal_basis": "(art. 13 ust. 6 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 13 ust. 6",
+      "correct_answer_ids": [{"id": "082_02", "label_id": "b"}],
+      "answers": [
+        {"id": "082_01", "label_id": "a", "text": "21 lat", "is_correct": false},
+        {"id": "082_02", "label_id": "b", "text": "18 lat", "is_correct": true},
+        {"id": "082_03", "label_id": "c", "text": "24 lat", "is_correct": false}
+      ]
+    },
+    {
+      "number": 83,
+      "question": "Broń pneumatyczna nie może być zarejestrowana na rzecz osoby, która nie ma ukończonych:",
+      "legal_basis": "(art. 13 ust. 7 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 13 ust. 7",
+      "correct_answer_ids": [{"id": "083_03", "label_id": "c"}],
+      "answers": [
+        {"id": "083_01", "label_id": "a", "text": "24 lat", "is_correct": false},
+        {"id": "083_02", "label_id": "b", "text": "21 lat", "is_correct": false},
+        {"id": "083_03", "label_id": "c", "text": "18 lat", "is_correct": true}
+      ]
+    },
+    {
+      "number": 84,
+      "question": "Amunicję można nabywać na podstawie:",
+      "legal_basis": "(art. 14 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 14",
+      "correct_answer_ids": [{"id": "084_01", "label_id": "a"}],
+      "answers": [
+        {"id": "084_01", "label_id": "a", "text": "legitymacji posiadacza broni, wyłącznie dla tej broni, która jest określona w legitymacji", "is_correct": true},
+        {"id": "084_02", "label_id": "b", "text": "legitymacji posiadacza broni, dla każdego rodzaju broni", "is_correct": false},
+        {"id": "084_03", "label_id": "c", "text": "legitymacji osoby dopuszczonej do posiadania broni", "is_correct": false}
+      ]
+    },
+    {
+      "number": 85,
+      "question": "Amunicję można nabywać na podstawie:",
+      "legal_basis": "(art. 14 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 14",
+      "correct_answer_ids": [{"id": "085_02", "label_id": "b"}],
+      "answers": [
+        {"id": "085_01", "label_id": "a", "text": "legitymacji osoby dopuszczonej do posiadania broni", "is_correct": false},
+        {"id": "085_02", "label_id": "b", "text": "świadectwa broni i pisemnego zamówienia podmiotu uprawnionego do nabycia amunicji", "is_correct": true},
+        {"id": "085_03", "label_id": "c", "text": "karty rejestracyjnej broni", "is_correct": false}
+      ]
+    },
+    {
+      "number": 86,
+      "question": "Pozwolenia na broń nie wydaje się osobom:",
+      "legal_basis": "(art. 15 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 15 ust. 1",
+      "correct_answer_ids": [{"id": "086_03", "label_id": "c"}],
+      "answers": [
+        {"id": "086_01", "label_id": "a", "text": "niemającym ukończonych 24 lat", "is_correct": false},
+        {"id": "086_02", "label_id": "b", "text": "używającym alkoholu", "is_correct": false},
+        {"id": "086_03", "label_id": "c", "text": "o znacznie ograniczonej sprawności psychofizycznej", "is_correct": true}
+      ]
+    },
+    {
+      "number": 87,
+      "question": "Pozwolenia na broń nie wydaje się osobom:",
+      "legal_basis": "(art. 15 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 15 ust. 1",
+      "correct_answer_ids": [{"id": "087_02", "label_id": "b"}],
+      "answers": [
+        {"id": "087_01", "label_id": "a", "text": "o obniżonej sprawności fizycznej", "is_correct": false},
+        {"id": "087_02", "label_id": "b", "text": "wykazującym istotne zaburzenia funkcjonowania psychologicznego", "is_correct": true},
+        {"id": "087_03", "label_id": "c", "text": "niemającym ukończonych 24 lat", "is_correct": false}
+      ]
+    },
+    {
+      "number": 88,
+      "question": "Pozwolenia na broń nie wydaje się osobom:",
+      "legal_basis": "(art. 15 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 15 ust. 1",
+      "correct_answer_ids": [{"id": "088_01", "label_id": "a"}],
+      "answers": [
+        {"id": "088_01", "label_id": "a", "text": "uzależnionym od alkoholu lub od substancji psychoaktywnych", "is_correct": true},
+        {"id": "088_02", "label_id": "b", "text": "o obniżonej sprawności intelektualnej", "is_correct": false},
+        {"id": "088_03", "label_id": "c", "text": "odpowiedzi a. i b. są prawidłowe", "is_correct": false}
+      ]
+    },
+    {
+      "number": 89,
+      "question": "Pozwolenia na broń nie wydaje się osobom:",
+      "legal_basis": "(art. 15 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 15 ust. 1",
+      "correct_answer_ids": [{"id": "089_02", "label_id": "b"}],
+      "answers": [
+        {"id": "089_01", "label_id": "a", "text": "nieposiadającym obywatelstwa polskiego i miejsca zameldowania na terytorium Rzeczypospolitej Polskiej", "is_correct": false},
+        {"id": "089_02", "label_id": "b", "text": "nieposiadającym miejsca stałego pobytu na terytorium Rzeczypospolitej Polskiej", "is_correct": true},
+        {"id": "089_03", "label_id": "c", "text": "niebędącym obywatelami Rzeczypospolitej Polskiej", "is_correct": false}
+      ]
+    },
+    {
+      "number": 90,
+      "question": "Pozwolenia na broń nie wydaje się osobom:",
+      "legal_basis": "(art. 15 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 15 ust. 1",
+      "correct_answer_ids": [{"id": "090_03", "label_id": "c"}],
+      "answers": [
+        {"id": "090_01", "label_id": "a", "text": "skazanym prawomocnym orzeczeniem sądu w sprawie o wykroczenie", "is_correct": false},
+        {"id": "090_02", "label_id": "b", "text": "skazanym prawomocnym orzeczeniem sądu za nieumyślne przestępstwo przeciwko mieniu", "is_correct": false},
+        {"id": "090_03", "label_id": "c", "text": "skazanym prawomocnym orzeczeniem sądu za umyślne przestępstwo lub umyślne przestępstwo skarbowe", "is_correct": true}
+      ]
+    },
+    {
+      "number": 91,
+      "question": "Na wniosek szkoły, organizacji sportowej, Polskiego Związku Łowieckiego, stowarzyszenia obronnego pozwolenie na broń służącą do celów sportowych lub łowieckich może być wydane osobie mającej ukończone:",
+      "legal_basis": "(art. 15 ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 15 ust. 2",
+      "correct_answer_ids": [{"id": "091_01", "label_id": "a"}],
+      "answers": [
+        {"id": "091_01", "label_id": "a", "text": "18 lat", "is_correct": true},
+        {"id": "091_02", "label_id": "b", "text": "17 lat", "is_correct": false},
+        {"id": "091_03", "label_id": "c", "text": "16 lat", "is_correct": false}
+      ]
+    },
+    {
+      "number": 92,
+      "question": "Osoba, która występuje z wnioskiem o wydanie pozwolenia na broń, lub osoba, która zgłasza do rejestru broń pneumatyczną, przedstawiają właściwemu organowi Policji:",
+      "legal_basis": "(art. 15 ust. 3 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 15 ust. 3",
+      "correct_answer_ids": [{"id": "092_03", "label_id": "c"}],
+      "answers": [
+        {"id": "092_01", "label_id": "a", "text": "wyłącznie orzeczenie lekarskie potwierdzające, że może dysponować bronią", "is_correct": false},
+        {"id": "092_02", "label_id": "b", "text": "wyłącznie orzeczenie psychologiczne potwierdzające, że może dysponować bronią", "is_correct": false},
+        {"id": "092_03", "label_id": "c", "text": "orzeczenia lekarskie i psychologiczne potwierdzające, że może dysponować bronią", "is_correct": true}
+      ]
+    },
+    {
+      "number": 93,
+      "question": "Osoba posiadająca pozwolenie na broń wydane w celach ochrony osobistej obowiązana jest przedstawić właściwemu organowi Policji orzeczenia lekarskie i psychologiczne potwierdzające, że może dysponować bronią:",
+      "legal_basis": "(art. 15 ust. 4 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 15 ust. 4",
+      "correct_answer_ids": [{"id": "093_02", "label_id": "b"}],
+      "answers": [
+        {"id": "093_01", "label_id": "a", "text": "raz na 3 lata", "is_correct": false},
+        {"id": "093_02", "label_id": "b", "text": "raz na 5 lat", "is_correct": true},
+        {"id": "093_03", "label_id": "c", "text": "nie ma takiego obowiązku", "is_correct": false}
+      ]
+    },
+    {
+      "number": 94,
+      "question": "Osoba posiadająca pozwolenie na broń wydane w celach kolekcjonerskich, obowiązana jest przedstawić właściwemu organowi Policji orzeczenia lekarskie i psychologiczne potwierdzające, że może dysponować bronią:",
+      "legal_basis": "(art. 15 ust. 4 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 15 ust. 4",
+      "correct_answer_ids": [{"id": "094_01", "label_id": "a"}],
+      "answers": [
+        {"id": "094_01", "label_id": "a", "text": "nie ma takiego obowiązku", "is_correct": true},
+        {"id": "094_02", "label_id": "b", "text": "raz na 3 lata", "is_correct": false},
+        {"id": "094_03", "label_id": "c", "text": "raz na 5 lat", "is_correct": false}
+      ]
+    },
+    {
+      "number": 95,
+      "question": "W przypadku ujawnienia okoliczności dostatecznie uzasadniających podejrzenie, iż osoba posiadająca pozwolenie na broń lub zarejestrowaną broń pneumatyczną należy do osób uzależnionych od alkoholu lub od substancji psychoaktywnych, właściwy organ Policji może:",
+      "legal_basis": "(art. 15 ust. 5 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 15 ust. 5",
+      "correct_answer_ids": [{"id": "095_01", "label_id": "a"}],
+      "answers": [
+        {"id": "095_01", "label_id": "a", "text": "zobowiązać tę osobę do niezwłocznego poddania się badaniom lekarskim i psychologicznym i przedstawienia wydanych orzeczeń", "is_correct": true},
+        {"id": "095_02", "label_id": "b", "text": "zobowiązać tę osobę do niezwłocznego poddania się badaniom lekarskim i przedstawienia wydanego orzeczenia", "is_correct": false},
+        {"id": "095_03", "label_id": "c", "text": "zobowiązać tę osobę do niezwłocznego poddania się badaniom psychologicznym i przedstawienia wydanego orzeczenia", "is_correct": false}
+      ]
+    },
+    {
+      "number": 96,
+      "question": "Od orzeczenia lekarskiego lub psychologicznego przysługuje odwołanie:",
+      "legal_basis": "(art. 15h ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 15h ust. 1",
+      "correct_answer_ids": [{"id": "096_03", "label_id": "c"}],
+      "answers": [
+        {"id": "096_01", "label_id": "a", "text": "nie przysługuje odwołanie", "is_correct": false},
+        {"id": "096_02", "label_id": "b", "text": "wnoszone ustnie", "is_correct": false},
+        {"id": "096_03", "label_id": "c", "text": "wnoszone na piśmie", "is_correct": true}
+      ]
+    },
+    {
+      "number": 97,
+      "question": "Odwołanie od orzeczenia lekarskiego lub psychologicznego przysługuje:",
+      "legal_basis": "(art. 15h ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 15h ust. 2",
+      "correct_answer_ids": [{"id": "097_02", "label_id": "b"}],
+      "answers": [
+        {"id": "097_01", "label_id": "a", "text": "wyłącznie komendantowi wojewódzkiemu Policji właściwemu ze względu na miejsce zamieszkania osoby ubiegającej się o pozwolenie na broń", "is_correct": false},
+        {"id": "097_02", "label_id": "b", "text": "osobie ubiegającej się o pozwolenie na broń oraz komendantowi wojewódzkiemu Policji właściwemu ze względu na miejsce zamieszkania tej osoby", "is_correct": true},
+        {"id": "097_03", "label_id": "c", "text": "wyłącznie osobie ubiegającej się o pozwolenie na broń", "is_correct": false}
+      ]
+    },
+    {
+      "number": 98,
+      "question": "Odwołanie od orzeczenia lekarskiego lub psychologicznego wraz z jego uzasadnieniem wnosi się w terminie:",
+      "legal_basis": "(art. 15h ust. 3 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 15h ust. 3",
+      "correct_answer_ids": [{"id": "098_02", "label_id": "b"}],
+      "answers": [
+        {"id": "098_01", "label_id": "a", "text": "7 dni od dnia doręczenia orzeczenia", "is_correct": false},
+        {"id": "098_02", "label_id": "b", "text": "30 dni od dnia doręczenia orzeczenia", "is_correct": true},
+        {"id": "098_03", "label_id": "c", "text": "14 dni od dnia doręczenia orzeczenia", "is_correct": false}
+      ]
+    },
+    {
+      "number": 99,
+      "question": "Właściwy organ Policji może odmówić wydania pozwolenia na broń osobie, która naruszyła:",
+      "legal_basis": "(art. 17 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 17 ust. 1",
+      "correct_answer_ids": [{"id": "099_01", "label_id": "a"}],
+      "answers": [
+        {"id": "099_01", "label_id": "a", "text": "warunki określone w pozwoleniu na broń dotyczące ograniczenia lub wykluczenia jej noszenia", "is_correct": true},
+        {"id": "099_02", "label_id": "b", "text": "przepisy regulaminu określającego zasady zachowania bezpieczeństwa na strzelnicy", "is_correct": false},
+        {"id": "099_03", "label_id": "c", "text": "obowiązek zawiadomienia o zmianie miejsca zameldowania", "is_correct": false}
+      ]
+    },
+    {
+      "number": 100,
+      "question": "Właściwy organ Policji może odmówić wydania pozwolenia na broń osobie, która naruszyła:",
+      "legal_basis": "(art. 17 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 17 ust. 1",
+      "correct_answer_ids": [{"id": "100_03", "label_id": "c"}],
+      "answers": [
+        {"id": "100_01", "label_id": "a", "text": "obowiązek pisemnego zgłoszenia przywozu broni lub amunicji przy przekraczaniu granicy", "is_correct": false},
+        {"id": "100_02", "label_id": "b", "text": "przepisy regulaminu określającego zasady zachowania bezpieczeństwa na strzelnicy", "is_correct": false},
+        {"id": "100_03", "label_id": "c", "text": "obowiązek zawiadomienia o zmianie miejsca stałego pobytu", "is_correct": true}
+      ]
+    },
+    {
+      "number": 101,
+      "question": "Właściwy organ Policji może odmówić wydania pozwolenia na broń osobie, która:",
+      "legal_basis": "(art. 17 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 17 ust. 1",
+      "correct_answer_ids": [{"id": "101_02", "label_id": "b"}],
+      "answers": [
+        {"id": "101_01", "label_id": "a", "text": "została ukarana mandatem za wykroczenie w ruchu drogowym", "is_correct": false},
+        {"id": "101_02", "label_id": "b", "text": "naruszyła obowiązek rejestracji broni w ciągu 5 dni od dnia jej nabycia", "is_correct": true},
+        {"id": "101_03", "label_id": "c", "text": "naruszyła obowiązek pisemnego zgłoszenia przywozu broni lub amunicji przy przekraczaniu granicy", "is_correct": false}
+      ]
+    },
+    {
+      "number": 102,
+      "question": "Właściwy organ Policji cofa pozwolenie na broń, jeżeli osoba, której takie pozwolenie wydano:",
+      "legal_basis": "(art. 18 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 18 ust. 1",
+      "correct_answer_ids": [{"id": "102_03", "label_id": "c"}],
+      "answers": [
+        {"id": "102_01", "label_id": "a", "text": "naruszyła zasady przechowywania broni", "is_correct": false},
+        {"id": "102_02", "label_id": "b", "text": "posiada przy sobie magazynek do broni, której nie posiada", "is_correct": false},
+        {"id": "102_03", "label_id": "c", "text": "nie przestrzega warunków określonych w pozwoleniu na broń dotyczących ograniczenia lub wykluczenia jej noszenia", "is_correct": true}
+      ]
+    },
+    {
+      "number": 103,
+      "question": "Właściwy organ Policji cofa pozwolenie na broń, jeżeli osoba, której takie pozwolenie wydano:",
+      "legal_basis": "(art. 18 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 18 ust. 1",
+      "correct_answer_ids": [{"id": "103_01", "label_id": "a"}],
+      "answers": [
+        {"id": "103_01", "label_id": "a", "text": "naruszyła obowiązek zawiadomienia o utracie broni", "is_correct": true},
+        {"id": "103_02", "label_id": "b", "text": "nie zawiadomiła o zmianie szafy do przechowywania broni", "is_correct": false},
+        {"id": "103_03", "label_id": "c", "text": "nie zawiadomiła o wyjeździe z bronią na zawody sportowe za granicę", "is_correct": false}
+      ]
+    },
+    {
+      "number": 104,
+      "question": "Właściwy organ Policji cofa pozwolenie na broń, jeżeli osoba, której takie pozwolenie wydano:",
+      "legal_basis": "(art. 18 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 18 ust. 1",
+      "correct_answer_ids": [{"id": "104_03", "label_id": "c"}],
+      "answers": [
+        {"id": "104_01", "label_id": "a", "text": "została skazana prawomocnym orzeczeniem sądu w sprawie o wykroczenie", "is_correct": false},
+        {"id": "104_02", "label_id": "b", "text": "zostały jej przedstawione zarzuty popełnienia przestępstwa umyślnego", "is_correct": false},
+        {"id": "104_03", "label_id": "c", "text": "została skazana prawomocnym orzeczeniem sądu za umyślne przestępstwo lub umyślne przestępstwo skarbowe", "is_correct": true}
+      ]
+    },
+    {
+      "number": 105,
+      "question": "Właściwy organ Policji cofa pozwolenie na broń, jeżeli osoba, której takie pozwolenie wydano:",
+      "legal_basis": "(art. 18 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 18 ust. 1",
+      "correct_answer_ids": [{"id": "105_03", "label_id": "c"}],
+      "answers": [
+        {"id": "105_01", "label_id": "a", "text": "przemieszcza się z rozładowaną bronią, znajdując się w stanie po użyciu alkoholu, środka odurzającego lub substancji psychotropowej albo środka zastępczego", "is_correct": false},
+        {"id": "105_02", "label_id": "b", "text": "nosi broń znajdując się w stanie po użyciu alkoholu, środka odurzającego lub substancji psychotropowej albo środka zastępczego", "is_correct": false},
+        {"id": "105_03", "label_id": "c", "text": "odpowiedzi a. i b. są prawidłowe", "is_correct": true}
+      ]
+    },
+    {
+      "number": 106,
+      "question": "Właściwy organ Policji cofa dopuszczenie do posiadania broni, jeżeli osoba dopuszczona do posiadania broni:",
+      "legal_basis": "(art. 18 ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 18 ust. 2",
+      "correct_answer_ids": [{"id": "106_03", "label_id": "c"}],
+      "answers": [
+        {"id": "106_01", "label_id": "a", "text": "naruszyła obowiązek zawiadomienia o utracie broni", "is_correct": false},
+        {"id": "106_02", "label_id": "b", "text": "przemieszcza się z rozładowaną bronią albo nosi broń, znajdując się w stanie po użyciu alkoholu, środka odurzającego lub substancji psychotropowej albo środka zastępczego", "is_correct": false},
+        {"id": "106_03", "label_id": "c", "text": "odpowiedzi a. i b. są prawidłowe", "is_correct": true}
+      ]
+    },
+    {
+      "number": 107,
+      "question": "Właściwy organ Policji cofa dopuszczenie do posiadania broni, jeżeli osoba dopuszczona do posiadania broni:",
+      "legal_basis": "(art. 18 ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 18 ust. 2",
+      "correct_answer_ids": [{"id": "107_03", "label_id": "c"}],
+      "answers": [
+        {"id": "107_01", "label_id": "a", "text": "przemieszcza się z rozładowaną bronią, znajdując się w stanie po użyciu alkoholu, środka odurzającego lub substancji psychotropowej albo środka zastępczego", "is_correct": false},
+        {"id": "107_02", "label_id": "b", "text": "nosi broń znajdując się w stanie po użyciu alkoholu, środka odurzającego lub substancji psychotropowej albo środka zastępczego", "is_correct": false},
+        {"id": "107_03", "label_id": "c", "text": "odpowiedzi a. i b. są prawidłowe", "is_correct": true}
+      ]
+    },
+    {
+      "number": 108,
+      "question": "Właściwy organ Policji cofa dopuszczenie do posiadania broni, jeżeli osoba dopuszczona do posiadania broni:",
+      "legal_basis": "(art. 18 ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 18 ust. 2",
+      "correct_answer_ids": [{"id": "108_01", "label_id": "a"}],
+      "answers": [
+        {"id": "108_01", "label_id": "a", "text": "została skazana prawomocnym orzeczeniem sądu za umyślne przestępstwo lub umyślne przestępstwo skarbowe", "is_correct": true},
+        {"id": "108_02", "label_id": "b", "text": "została skazana prawomocnym orzeczeniem sądu w sprawie o wykroczenie", "is_correct": false},
+        {"id": "108_03", "label_id": "c", "text": "zostały jej przedstawione zarzuty popełnienia umyślnego przestępstwa", "is_correct": false}
+      ]
+    },
+    {
+      "number": 109,
+      "question": "Jeżeli ustały okoliczności faktyczne, które stanowiły podstawę do wydania pozwolenia na broń, właściwy organ Policji:",
+      "legal_basis": "(art. 18 ust. 4 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 18 ust. 4",
+      "correct_answer_ids": [{"id": "109_02", "label_id": "b"}],
+      "answers": [
+        {"id": "109_01", "label_id": "a", "text": "może zawiesić pozwolenie na broń", "is_correct": false},
+        {"id": "109_02", "label_id": "b", "text": "może cofnąć pozwolenie na broń", "is_correct": true},
+        {"id": "109_03", "label_id": "c", "text": "cofa pozwolenie na broń", "is_correct": false}
+      ]
+    },
+    {
+      "number": 110,
+      "question": "Właściwy organ Policji może cofnąć pozwolenie na broń w przypadku naruszenia przez osobę posiadającą pozwolenie:",
+      "legal_basis": "(art. 18 ust. 5 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 18 ust. 5",
+      "correct_answer_ids": [{"id": "110_02", "label_id": "b"}],
+      "answers": [
+        {"id": "110_01", "label_id": "a", "text": "przepisów regulaminu określającego zasady zachowania bezpieczeństwa na strzelnicy", "is_correct": false},
+        {"id": "110_02", "label_id": "b", "text": "obowiązku rejestracji broni w ciągu 5 dni od dnia jej nabycia", "is_correct": true},
+        {"id": "110_03", "label_id": "c", "text": "obowiązku pisemnego zgłoszenia przywozu broni lub amunicji przy przekraczaniu granicy", "is_correct": false}
+      ]
+    },
+    {
+      "number": 111,
+      "question": "Właściwy organ Policji może cofnąć pozwolenie na broń w przypadku naruszenia przez osobę posiadającą pozwolenie:",
+      "legal_basis": "(art. 18 ust. 5 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 18 ust. 5",
+      "correct_answer_ids": [{"id": "111_01", "label_id": "a"}],
+      "answers": [
+        {"id": "111_01", "label_id": "a", "text": "obowiązku zawiadomienia właściwego organu o zmianie miejsca stałego pobytu", "is_correct": true},
+        {"id": "111_02", "label_id": "b", "text": "obowiązku zawiadomienia właściwego organu o miejscu przechowywania broni", "is_correct": false},
+        {"id": "111_03", "label_id": "c", "text": "obowiązku zawiadomienia organu o użyczeniu broni", "is_correct": false}
+      ]
+    },
+    {
+      "number": 112,
+      "question": "Właściwy organ Policji może cofnąć pozwolenie na broń w przypadku naruszenia przez osobę posiadającą pozwolenie:",
+      "legal_basis": "(art. 18 ust. 5 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 18 ust. 5",
+      "correct_answer_ids": [{"id": "112_03", "label_id": "c"}],
+      "answers": [
+        {"id": "112_01", "label_id": "a", "text": "zasad przechowywania, noszenia oraz ewidencjonowania broni i amunicji", "is_correct": false},
+        {"id": "112_02", "label_id": "b", "text": "wymogu uzyskania zgody na wywóz broni i amunicji za granicę", "is_correct": false},
+        {"id": "112_03", "label_id": "c", "text": "odpowiedzi a. i b. są prawidłowe", "is_correct": true}
+      ]
+    },
+    {
+      "number": 113,
+      "question": "Właściwy organ Policji może cofnąć pozwolenie na broń w przypadku:",
+      "legal_basis": "(art. 18 ust. 5 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 18 ust. 5",
+      "correct_answer_ids": [{"id": "113_03", "label_id": "c"}],
+      "answers": [
+        {"id": "113_01", "label_id": "a", "text": "używania broni palnej oraz innej broni zdolnej do rażenia celów na odległość, w celach szkoleniowych i sportowych poza strzelnicą", "is_correct": false},
+        {"id": "113_02", "label_id": "b", "text": "naruszenia przez osobę posiadającą pozwolenie zakazu użyczania broni osobie nieupoważnionej", "is_correct": false},
+        {"id": "113_03", "label_id": "c", "text": "odpowiedzi a. i b. są prawidłowe", "is_correct": true}
+      ]
+    },
+    {
+      "number": 114,
+      "question": "Właściwy organ Policji może cofnąć dopuszczenie do posiadania broni w przypadku naruszenia przez osobę dopuszczoną do posiadania broni",
+      "legal_basis": "(art. 18 ust. 6 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 18 ust. 6",
+      "correct_answer_ids": [{"id": "114_01", "label_id": "a"}],
+      "answers": [
+        {"id": "114_01", "label_id": "a", "text": "obowiązku zawiadomienia właściwego organu o zmianie miejsca stałego pobytu", "is_correct": true},
+        {"id": "114_02", "label_id": "b", "text": "obowiązku zawiadomienia właściwego organu o miejscu przechowywania broni", "is_correct": false},
+        {"id": "114_03", "label_id": "c", "text": "obowiązku zawiadomienia organu o użyczeniu broni", "is_correct": false}
+      ]
+    },
+    {
+      "number": 115,
+      "question": "Właściwy organ Policji może cofnąć dopuszczenie do posiadania broni w przypadku:",
+      "legal_basis": "(art. 18 ust. 6 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 18 ust. 6",
+      "correct_answer_ids": [{"id": "115_02", "label_id": "b"}],
+      "answers": [
+        {"id": "115_01", "label_id": "a", "text": "naruszenia przez osobę dopuszczoną do posiadania broni zakazu użyczania broni osobie nieupoważnionej", "is_correct": false},
+        {"id": "115_02", "label_id": "b", "text": "używania broni palnej oraz innej broni zdolnej do rażenia celów na odległość, w celach szkoleniowych i sportowych poza strzelnicą", "is_correct": true},
+        {"id": "115_03", "label_id": "c", "text": "odpowiedzi a. i b. są prawidłowe", "is_correct": false}
+      ]
+    },
+    {
+      "number": 116,
+      "question": "Osoba, której cofnięto pozwolenie na broń, dopuszczenie do posiadania broni lub której unieważniono kartę rejestracyjną broni, jest zobowiązana zwrócić dokumenty potwierdzające legalność posiadania broni i amunicji do właściwego organu Policji w terminie:",
+      "legal_basis": "(art. 18 ust. 8 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 18 ust. 8",
+      "correct_answer_ids": [{"id": "116_03", "label_id": "c"}],
+      "answers": [
+        {"id": "116_01", "label_id": "a", "text": "14 dni od dnia otrzymania ostatecznej decyzji o cofnięciu pozwolenia na broń, dopuszczenia do posiadania broni lub unieważnienia karty", "is_correct": false},
+        {"id": "116_02", "label_id": "b", "text": "30 dni od dnia otrzymania ostatecznej decyzji o cofnięciu pozwolenia na broń, dopuszczenia do posiadania broni lub unieważnienia karty", "is_correct": false},
+        {"id": "116_03", "label_id": "c", "text": "7 dni od dnia otrzymania ostatecznej decyzji o cofnięciu pozwolenia na broń, dopuszczenia do posiadania broni lub unieważnienia karty", "is_correct": true}
+      ]
+    },
+    {
+      "number": 117,
+      "question": "W przypadku ujawnienia, że osoba posiadająca broń zgodnie z przepisami, została skazana prawomocnym orzeczeniem sądu za umyślne przestępstwo, a zwłoka zagrażałaby bezpieczeństwu publicznego, Policja może:",
+      "legal_basis": "(art. 19 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 19 ust. 1",
+      "correct_answer_ids": [{"id": "117_01", "label_id": "a"}],
+      "answers": [
+        {"id": "117_01", "label_id": "a", "text": "za pokwitowaniem odebrać broń i amunicję oraz dokumenty potwierdzające legalność posiadania broni", "is_correct": true},
+        {"id": "117_02", "label_id": "b", "text": "za pokwitowaniem odebrać wyłącznie broń i amunicję", "is_correct": false},
+        {"id": "117_03", "label_id": "c", "text": "za pokwitowaniem odebrać wyłącznie dokumenty potwierdzające legalność posiadania broni", "is_correct": false}
+      ]
+    },
+    {
+      "number": 118,
+      "question": "W przypadku ujawnienia, że osoba posiadająca broń zgodnie z przepisami, narusza zasady przechowywania, noszenia oraz ewidencjonowania broni i amunicji, a zwłoka zagrażałaby bezpieczeństwu publicznego, Policja może:",
+      "legal_basis": "(art. 19 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 19 ust. 1",
+      "correct_answer_ids": [{"id": "118_02", "label_id": "b"}],
+      "answers": [
+        {"id": "118_01", "label_id": "a", "text": "za pokwitowaniem odebrać wyłącznie broń i amunicję", "is_correct": false},
+        {"id": "118_02", "label_id": "b", "text": "za pokwitowaniem odebrać broń i amunicję oraz dokumenty potwierdzające legalność posiadania broni", "is_correct": true},
+        {"id": "118_03", "label_id": "c", "text": "za pokwitowaniem odebrać wyłącznie dokumenty potwierdzające legalność posiadania broni", "is_correct": false}
+      ]
+    },
+    {
+      "number": 119,
+      "question": "Policja może za pokwitowaniem odebrać broń i amunicję oraz dokumenty potwierdzające legalność posiadania broni osobie posiadającej broń zgodnie z przepisami, przeciwko której toczy się postępowanie karne o umyślne przestępstwo lub umyślne przestępstwo skarbowe, do czasu prawomocnego zakończenia tego postępowania, na okres nie dłuższy niż:",
+      "legal_basis": "(art. 19 ust. 1a uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 19 ust. 1a",
+      "correct_answer_ids": [{"id": "119_01", "label_id": "a"}],
+      "answers": [
+        {"id": "119_01", "label_id": "a", "text": "3 lata", "is_correct": true},
+        {"id": "119_02", "label_id": "b", "text": "4 lata", "is_correct": false},
+        {"id": "119_03", "label_id": "c", "text": "2 lata", "is_correct": false}
+      ]
+    },
+    {
+      "number": 120,
+      "question": "Cofnięcie pozwolenia na broń, dopuszczenia do posiadania broni oraz unieważnienie karty rejestracyjnej broni pneumatycznej następuje:",
+      "legal_basis": "(art. 20 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 20",
+      "correct_answer_ids": [{"id": "120_03", "label_id": "c"}],
+      "answers": [
+        {"id": "120_01", "label_id": "a", "text": "w drodze zaświadczenia", "is_correct": false},
+        {"id": "120_02", "label_id": "b", "text": "w drodze postanowienia", "is_correct": false},
+        {"id": "120_03", "label_id": "c", "text": "w drodze decyzji administracyjnej", "is_correct": true}
+      ]
+    },
+    {
+      "number": 121,
+      "question": "Dopuszcza się zbywanie broni i amunicji do tej broni:",
+      "legal_basis": "(art. 21 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 21 ust. 1",
+      "correct_answer_ids": [{"id": "121_01", "label_id": "a"}],
+      "answers": [
+        {"id": "121_01", "label_id": "a", "text": "pomiędzy osobami posiadającymi pozwolenie na ten sam rodzaj broni", "is_correct": true},
+        {"id": "121_02", "label_id": "b", "text": "wyłącznie pomiędzy osobami posiadającymi pozwolenie na broń do celów sportowych i łowieckich", "is_correct": false},
+        {"id": "121_03", "label_id": "c", "text": "zbywanie broni i amunicji do tej broni pomiędzy posiadaczami pozwolenia na broń jest zabronione", "is_correct": false}
+      ]
+    },
+    {
+      "number": 122,
+      "question": "Zbywający broń i amunicję do tej broni obowiązany jest powiadomić pisemnie o tym fakcie właściwy organ Policji:",
+      "legal_basis": "(art. 21 ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 21 ust. 2",
+      "correct_answer_ids": [{"id": "122_02", "label_id": "b"}],
+      "answers": [
+        {"id": "122_01", "label_id": "a", "text": "w ciągu 7 dni", "is_correct": false},
+        {"id": "122_02", "label_id": "b", "text": "niezwłocznie", "is_correct": true},
+        {"id": "122_03", "label_id": "c", "text": "w ciągu 14 dni", "is_correct": false}
+      ]
+    },
+    {
+      "number": 123,
+      "question": "Powiadomienie właściwego organu Policji o zbyciu broni i amunicji do tej broni może nastąpić:",
+      "legal_basis": "(art. 21 ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 21 ust. 2",
+      "correct_answer_ids": [{"id": "123_03", "label_id": "c"}],
+      "answers": [
+        {"id": "123_01", "label_id": "a", "text": "ustnie", "is_correct": false},
+        {"id": "123_02", "label_id": "b", "text": "telefonicznie", "is_correct": false},
+        {"id": "123_03", "label_id": "c", "text": "tylko pisemnie", "is_correct": true}
+      ]
+    },
+    {
+      "number": 124,
+      "question": "Osoba, która utraciła uprawnienie do posiadania broni lub której unieważniono kartę rejestracyjną broni pneumatycznej, obowiązana jest zbyć broń i amunicję do tej broni:",
+      "legal_basis": "(art. 22 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 22 ust. 1",
+      "correct_answer_ids": [{"id": "124_01", "label_id": "a"}],
+      "answers": [
+        {"id": "124_01", "label_id": "a", "text": "niezwłocznie", "is_correct": true},
+        {"id": "124_02", "label_id": "b", "text": "w ciągu 7 dni", "is_correct": false},
+        {"id": "124_03", "label_id": "c", "text": "w ciągu 30 dni", "is_correct": false}
+      ]
+    },
+    {
+      "number": 125,
+      "question": "Osoba, która utraciła uprawnienie do posiadania broni lub której unieważniono kartę rejestracyjną broni pneumatycznej, jest obowiązana niezwłocznie:",
+      "legal_basis": "(art. 22 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 22 ust. 1",
+      "correct_answer_ids": [{"id": "125_02", "label_id": "b"}],
+      "answers": [
+        {"id": "125_01", "label_id": "a", "text": "powiadomić o miejscu przechowywania broni i amunicji najbliższą jednostkę Policji", "is_correct": false},
+        {"id": "125_02", "label_id": "b", "text": "zbyć broń i amunicję do tej broni", "is_correct": true},
+        {"id": "125_03", "label_id": "c", "text": "przekazać klucze do szafy na broń osobie, która posiada pozwolenie na broń", "is_correct": false}
+      ]
+    },
+    {
+      "number": 126,
+      "question": "Osoba, która utraciła uprawnienie do posiadania broni lub której unieważniono kartę rejestracyjną broni pneumatycznej, jest obowiązana niezwłocznie:",
+      "legal_basis": "(art. 22 ust. 1a uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 22 ust. 1a",
+      "correct_answer_ids": [{"id": "126_02", "label_id": "b"}],
+      "answers": [
+        {"id": "126_01", "label_id": "a", "text": "złożyć broń i amunicję do tej broni do depozytu", "is_correct": false},
+        {"id": "126_02", "label_id": "b", "text": "zbyć lub pozbawić broń palną cech użytkowych", "is_correct": true},
+        {"id": "126_03", "label_id": "c", "text": "przekazać klucze do szafy na broń osobie, która posiada pozwolenie na broń", "is_correct": false}
+      ]
+    },
+    {
+      "number": 127,
+      "question": "W przypadku utraty pozwolenia na broń, jeżeli broń nie zostanie zbyta, należy ją złożyć wraz z amunicją do depozytu właściwego organu Policji:",
+      "legal_basis": "(art. 22 ust. 3 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 22 ust. 3",
+      "correct_answer_ids": [{"id": "127_01", "label_id": "a"}],
+      "answers": [
+        {"id": "127_01", "label_id": "a", "text": "w terminie 30 dni od utraty pozwolenia", "is_correct": true},
+        {"id": "127_02", "label_id": "b", "text": "w terminie 14 dni od utraty pozwolenia", "is_correct": false},
+        {"id": "127_03", "label_id": "c", "text": "w terminie 7 dni od utraty pozwolenia", "is_correct": false}
+      ]
+    },
+    {
+      "number": 128,
+      "question": "Koszty związane z deponowaniem broni i amunicji w przypadku utraty pozwolenia na broń ponosi:",
+      "legal_basis": "(art. 23 ust. 1)",
+      "legal_act": "",
+      "legal_reference": "art. 23 ust. 1",
+      "correct_answer_ids": [{"id": "128_03", "label_id": "c"}],
+      "answers": [
+        {"id": "128_01", "label_id": "a", "text": "w opisanym przypadku deponowanie broni i amunicji jest bezpłatne", "is_correct": false},
+        {"id": "128_02", "label_id": "b", "text": "Policja", "is_correct": false},
+        {"id": "128_03", "label_id": "c", "text": "osoba, która utraciła prawo do posiadania broni i amunicji do niej", "is_correct": true}
+      ]
+    },
+    {
+      "number": 129,
+      "question": "Posiadacz broni w przypadku jej utraty jest zobowiązany niezwłocznie, nie później jednak niż w ciągu 24 godzin od chwili stwierdzenia utraty broni:",
+      "legal_basis": "(art. 25 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 25",
+      "correct_answer_ids": [{"id": "129_01", "label_id": "a"}],
+      "answers": [
+        {"id": "129_01", "label_id": "a", "text": "zawiadomić o tym Policję albo Żandarmerię Wojskową", "is_correct": true},
+        {"id": "129_02", "label_id": "b", "text": "zawiadomić o tym Policję albo Prokuraturę", "is_correct": false},
+        {"id": "129_03", "label_id": "c", "text": "zawiadomić o tym Policję albo Straż Graniczną", "is_correct": false}
+      ]
+    },
+    {
+      "number": 130,
+      "question": "Posiadacz broni w przypadku jej utraty jest zobowiązany zawiadomić o tym Policję albo Żandarmerię Wojskową:",
+      "legal_basis": "(art. 25 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 25",
+      "correct_answer_ids": [{"id": "130_03", "label_id": "c"}],
+      "answers": [
+        {"id": "130_01", "label_id": "a", "text": "niezwłocznie, nie później jednak niż w ciągu 72 godzin od chwili stwierdzenia utraty broni", "is_correct": false},
+        {"id": "130_02", "label_id": "b", "text": "niezwłocznie, nie później jednak niż w ciągu 48 godzin od chwili stwierdzenia utraty broni", "is_correct": false},
+        {"id": "130_03", "label_id": "c", "text": "niezwłocznie, nie później jednak niż w ciągu 24 godzin od chwili stwierdzenia utraty broni", "is_correct": true}
+      ]
+    },
+    {
+      "number": 131,
+      "question": "Osoba posiadająca pozwolenie na broń lub posiadająca broń podlegającą rejestracji, która nie wymaga pozwolenia na broń, jest obowiązana w razie zmiany miejsca stałego pobytu zawiadomić o tym fakcie pisemnie, organ Policji właściwy ze względu na nowe miejsce stałego pobytu:",
+      "legal_basis": "(art. 26 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 26",
+      "correct_answer_ids": [{"id": "131_01", "label_id": "a"}],
+      "answers": [
+        {"id": "131_01", "label_id": "a", "text": "w terminie 14 dni od dnia zmiany miejsca stałego pobytu", "is_correct": true},
+        {"id": "131_02", "label_id": "b", "text": "w terminie 30 dni od dnia zmiany miejsca stałego pobytu", "is_correct": false},
+        {"id": "131_03", "label_id": "c", "text": "w terminie 7 dni od dnia zmiany miejsca stałego pobytu", "is_correct": false}
+      ]
+    },
+    {
+      "number": 132,
+      "question": "Osoba posiadająca pozwolenie na broń lub posiadająca broń podlegającą rejestracji, która nie wymaga pozwolenia na broń, jest obowiązana w razie zmiany miejsca stałego pobytu zawiadomić o tym fakcie pisemnie, w terminie 14 dni od dnia zmiany miejsca stałego pobytu:",
+      "legal_basis": "(art. 26 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 26",
+      "correct_answer_ids": [{"id": "132_02", "label_id": "b"}],
+      "answers": [
+        {"id": "132_01", "label_id": "a", "text": "organ Policji właściwy ze względu na dotychczasowe lub nowe miejsce stałego pobytu", "is_correct": false},
+        {"id": "132_02", "label_id": "b", "text": "organ Policji właściwy ze względu na nowe miejsce stałego pobytu", "is_correct": true},
+        {"id": "132_03", "label_id": "c", "text": "organ Policji właściwy ze względu na dotychczasowe miejsce stałego pobytu", "is_correct": false}
+      ]
+    },
+    {
+      "number": 133,
+      "question": "Broni odpowiadającej celom łowieckim i broni odpowiadającej celom sportowym oraz amunicji do takiej broni można użyczać osobom posiadającym pozwolenie na broń wydane w celach:",
+      "legal_basis": "(art. 28 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 28",
+      "correct_answer_ids": [{"id": "133_02", "label_id": "b"}],
+      "answers": [
+        {"id": "133_01", "label_id": "a", "text": "kolekcjonerskich lub sportowych", "is_correct": false},
+        {"id": "133_02", "label_id": "b", "text": "łowieckich lub sportowych", "is_correct": true},
+        {"id": "133_03", "label_id": "c", "text": "szkoleniowych lub łowieckich", "is_correct": false}
+      ]
+    },
+    {
+      "number": 134,
+      "question": "Osoby posiadające pozwolenie na broń wydane w celach łowieckich lub sportowych mogą użyczać broń odpowiadającą celom łowieckim lub sportowym od osób posiadających pozwolenie wydane w celu:",
+      "legal_basis": "(art. 28 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 28",
+      "correct_answer_ids": [{"id": "134_03", "label_id": "c"}],
+      "answers": [
+        {"id": "134_01", "label_id": "a", "text": "sportowym", "is_correct": false},
+        {"id": "134_02", "label_id": "b", "text": "kolekcjonerskim", "is_correct": false},
+        {"id": "134_03", "label_id": "c", "text": "odpowiedzi a. i b. są prawidłowe", "is_correct": true}
+      ]
+    },
+    {
+      "number": 135,
+      "question": "Świadectwo broni może być wydane:",
+      "legal_basis": "(art. 29 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 29 ust. 1",
+      "correct_answer_ids": [{"id": "135_01", "label_id": "a"}],
+      "answers": [
+        {"id": "135_01", "label_id": "a", "text": "podmiotom prowadzącym strzelnicę", "is_correct": true},
+        {"id": "135_02", "label_id": "b", "text": "osobom fizycznym posiadającym pozwolenie na broń", "is_correct": false},
+        {"id": "135_03", "label_id": "c", "text": "prywatnym placówkom muzealnym", "is_correct": false}
+      ]
+    },
+    {
+      "number": 136,
+      "question": "Świadectwo broni może być wydane:",
+      "legal_basis": "(art. 29 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 29 ust. 1",
+      "correct_answer_ids": [{"id": "136_02", "label_id": "b"}],
+      "answers": [
+        {"id": "136_01", "label_id": "a", "text": "osobom fizycznym wpisanym na listę kwalifikowanych pracowników ochrony fizycznej", "is_correct": false},
+        {"id": "136_02", "label_id": "b", "text": "podmiotom wykonującym zadania związane z realizacją filmów i innych przedsięwzięć artystycznych", "is_correct": true},
+        {"id": "136_03", "label_id": "c", "text": "osobom posiadającym dopuszczenie do posiadania broni", "is_correct": false}
+      ]
+    },
+    {
+      "number": 137,
+      "question": "Świadectwo na broń, uprawniające do posiadania samoczynnej broni palnej zdolnej do rażenia celów na odległość, może być wydane:",
+      "legal_basis": "(art. 29 ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 29 ust. 2",
+      "correct_answer_ids": [{"id": "137_01", "label_id": "a"}],
+      "answers": [
+        {"id": "137_01", "label_id": "a", "text": "organizatorom kursów, kształcącym w zawodzie pracownika ochrony", "is_correct": true},
+        {"id": "137_02", "label_id": "b", "text": "stowarzyszeniom strzeleckim", "is_correct": false},
+        {"id": "137_03", "label_id": "c", "text": "podmiotom prowadzącym strzelnicę", "is_correct": false}
+      ]
+    },
+    {
+      "number": 138,
+      "question": "Dopuszczenie do posiadania broni uprawnia osoby fizyczne do:",
+      "legal_basis": "",
+      "legal_act": "",
+      "legal_reference": "",
+      "correct_answer_ids": [{"id": "138_02", "label_id": "b"}],
+      "answers": [
+        {"id": "138_01", "label_id": "a", "text": "korzystania z broni na strzelnicy bez nadzoru prowadzącego strzelanie", "is_correct": false},
+        {"id": "138_02", "label_id": "b", "text": "posługiwania się bronią podmiotów posiadających świadectwo broni, przy wykonywaniu zadań w ramach prowadzonej działalności", "is_correct": true},
+        {"id": "138_03", "label_id": "c", "text": "odpowiedzi a. i b. są prawidłowe", "is_correct": false}
+      ]
+    },
+    {
+      "number": 139,
+      "question": "Dopuszczenia do posiadania broni nie wydaje się osobom:",
+      "legal_basis": "(art. 30 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 30 ust. 1",
+      "correct_answer_ids": [{"id": "139_01", "label_id": "a"}],
+      "answers": [
+        {"id": "139_01", "label_id": "a", "text": "o znacznie ograniczonej sprawności psychofizycznej", "is_correct": true},
+        {"id": "139_02", "label_id": "b", "text": "niemającym ukończonych 24 lat", "is_correct": false},
+        {"id": "139_03", "label_id": "c", "text": "używającym alkoholu", "is_correct": false}
+      ]
+    },
+    {
+      "number": 140,
+      "question": "Dopuszczenia do posiadania broni nie wydaje się osobom:",
+      "legal_basis": "(art. 30 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 30 ust. 1",
+      "correct_answer_ids": [{"id": "140_01", "label_id": "a"}],
+      "answers": [
+        {"id": "140_01", "label_id": "a", "text": "wykazującym istotne zaburzenia funkcjonowania psychologicznego", "is_correct": true},
+        {"id": "140_02", "label_id": "b", "text": "o obniżonej sprawności fizycznej", "is_correct": false},
+        {"id": "140_03", "label_id": "c", "text": "niemającym ukończonych 24 lat", "is_correct": false}
+      ]
+    },
+    {
+      "number": 141,
+      "question": "Dopuszczenia do posiadania broni nie wydaje się osobom:",
+      "legal_basis": "(art. 30 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 30 ust. 1",
+      "correct_answer_ids": [{"id": "141_02", "label_id": "b"}],
+      "answers": [
+        {"id": "141_01", "label_id": "a", "text": "które nie ukończyły 24 lat", "is_correct": false},
+        {"id": "141_02", "label_id": "b", "text": "uzależnionym od alkoholu lub od substancji psychoaktywnych", "is_correct": true},
+        {"id": "141_03", "label_id": "c", "text": "o obniżonej sprawności fizycznej", "is_correct": false}
+      ]
+    },
+    {
+      "number": 142,
+      "question": "Dopuszczenia do posiadania broni nie wydaje się osobom:",
+      "legal_basis": "(art. 30 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 30 ust. 1",
+      "correct_answer_ids": [{"id": "142_01", "label_id": "a"}],
+      "answers": [
+        {"id": "142_01", "label_id": "a", "text": "nieposiadającym miejsca stałego pobytu na terytorium Rzeczypospolitej Polskiej", "is_correct": true},
+        {"id": "142_02", "label_id": "b", "text": "nieposiadającym miejsca zameldowania na terytorium Rzeczypospolitej Polskiej", "is_correct": false},
+        {"id": "142_03", "label_id": "c", "text": "niebędącym obywatelami Rzeczypospolitej Polskiej", "is_correct": false}
+      ]
+    },
+    {
+      "number": 143,
+      "question": "Dopuszczenia do posiadania broni nie wydaje się osobom:",
+      "legal_basis": "(art. 30 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 30 ust. 1",
+      "correct_answer_ids": [{"id": "143_02", "label_id": "b"}],
+      "answers": [
+        {"id": "143_01", "label_id": "a", "text": "skazanym prawomocnym orzeczeniem sądu w sprawie o wykroczenie", "is_correct": false},
+        {"id": "143_02", "label_id": "b", "text": "skazanym prawomocnym orzeczeniem sądu za umyślne przestępstwo lub umyślne przestępstwo skarbowe", "is_correct": true},
+        {"id": "143_03", "label_id": "c", "text": "skazanym prawomocnym orzeczeniem sądu za nieumyślne przestępstwo przeciwko mieniu", "is_correct": false}
+      ]
+    },
+    {
+      "number": 144,
+      "question": "Dopuszczenie do posiadania broni następuje:",
+      "legal_basis": "(art. 30 ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 30 ust. 2",
+      "correct_answer_ids": [{"id": "144_03", "label_id": "c"}],
+      "answers": [
+        {"id": "144_01", "label_id": "a", "text": "w drodze postanowienia", "is_correct": false},
+        {"id": "144_02", "label_id": "b", "text": "w drodze zaświadczenia", "is_correct": false},
+        {"id": "144_03", "label_id": "c", "text": "w drodze decyzji administracyjnej", "is_correct": true}
+      ]
+    },
+    {
+      "number": 145,
+      "question": "Broń i amunicję należy przechowywać w sposób:",
+      "legal_basis": "(art. 32 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 32 ust. 1",
+      "correct_answer_ids": [{"id": "145_01", "label_id": "a"}],
+      "answers": [
+        {"id": "145_01", "label_id": "a", "text": "uniemożliwiający dostęp do nich osób nieuprawnionych", "is_correct": true},
+        {"id": "145_02", "label_id": "b", "text": "zapobiegający ich uszkodzeniu", "is_correct": false},
+        {"id": "145_03", "label_id": "c", "text": "niezagrażający innym osobom", "is_correct": false}
+      ]
+    },
+    {
+      "number": 146,
+      "question": "Podmioty posiadające broń i amunicję na podstawie pozwolenia na broń na okaziciela, przechowują broń i amunicję:",
+      "legal_basis": "(§3 ust. 1 rozporządzenia w sprawie przechowywania, noszenia oraz ewidencjonowania broni i amunicji)",
+      "legal_act": "Rozporządzenie w sprawie przechowywania, noszenia oraz ewidencjonowania broni i amunicji",
+      "legal_reference": "§3 ust. 1",
+      "correct_answer_ids": [{"id": "146_03", "label_id": "c"}],
+      "answers": [
+        {"id": "146_01", "label_id": "a", "text": "w magazynie broni", "is_correct": false},
+        {"id": "146_02", "label_id": "b", "text": "w urządzeniach spełniających wymagania co najmniej klasy S1 według normy PN-EN 14450", "is_correct": false},
+        {"id": "146_03", "label_id": "c", "text": "odpowiedzi a. i b. są prawidłowe", "is_correct": true}
+      ]
+    },
+    {
+      "number": 147,
+      "question": "Podmioty posiadające broń i amunicję na podstawie pozwolenia na broń na okaziciela, przechowują broń:",
+      "legal_basis": "(§3 ust. 2 rozporządzenia w sprawie przechowywania, noszenia oraz ewidencjonowania broni i amunicji)",
+      "legal_act": "Rozporządzenie w sprawie przechowywania, noszenia oraz ewidencjonowania broni i amunicji",
+      "legal_reference": "§3 ust. 2",
+      "correct_answer_ids": [{"id": "147_01", "label_id": "a"}],
+      "answers": [
+        {"id": "147_01", "label_id": "a", "text": "z odłączonym magazynkiem, w stanie rozładowanym", "is_correct": true},
+        {"id": "147_02", "label_id": "b", "text": "z podłączonym magazynkiem, w stanie rozładowanym", "is_correct": false},
+        {"id": "147_03", "label_id": "c", "text": "z podłączonym magazynkiem, w stanie załadowanym", "is_correct": false}
+      ]
+    },
+    {
+      "number": 148,
+      "question": "Podmioty posiadające broń i amunicję na podstawie pozwolenia na broń na okaziciela, przechowują amunicję:",
+      "legal_basis": "(§3 ust. 3 rozporządzenia w sprawie przechowywania, noszenia oraz ewidencjonowania broni i amunicji)",
+      "legal_act": "Rozporządzenie w sprawie przechowywania, noszenia oraz ewidencjonowania broni i amunicji",
+      "legal_reference": "§3 ust. 3",
+      "correct_answer_ids": [{"id": "148_02", "label_id": "b"}],
+      "answers": [
+        {"id": "148_01", "label_id": "a", "text": "w magazynkach nabojowych", "is_correct": false},
+        {"id": "148_02", "label_id": "b", "text": "w pudełkach lub pojemnikach, w sposób uniemożliwiający uderzenie w spłonkę naboju", "is_correct": true},
+        {"id": "148_03", "label_id": "c", "text": "w dowolny sposób, umożliwiający szybki dostęp do amunicji", "is_correct": false}
+      ]
+    },
+    {
+      "number": 149,
+      "question": "Osoby posiadające broń i amunicję do niej na podstawie pozwolenia przechowują broń i amunicję:",
+      "legal_basis": "(§5 ust. 1 rozporządzenia w sprawie przechowywania, noszenia oraz ewidencjonowania broni i amunicji)",
+      "legal_act": "Rozporządzenie w sprawie przechowywania, noszenia oraz ewidencjonowania broni i amunicji",
+      "legal_reference": "§5 ust. 1",
+      "correct_answer_ids": [{"id": "149_02", "label_id": "b"}],
+      "answers": [
+        {"id": "149_01", "label_id": "a", "text": "w urządzeniach spełniających wymagania co najmniej klasy S2 według normy PN-EN 14450", "is_correct": false},
+        {"id": "149_02", "label_id": "b", "text": "w urządzeniach spełniających wymagania co najmniej klasy S1 według normy PN-EN 14450", "is_correct": true},
+        {"id": "149_03", "label_id": "c", "text": "w urządzeniach spełniających wymagania co najmniej klasy 0 według normy PN-EN 1143-1", "is_correct": false}
+      ]
+    },
+    {
+      "number": 150,
+      "question": "W pomieszczeniu wyposażonym w dodatkowe zabezpieczenia, określone w rozporządzeniu w sprawie przechowywania, noszenia oraz ewidencjonowania broni i amunicji, przechowuje się broń w liczbie:",
+      "legal_basis": "(§5 ust. 2 rozporządzenia w sprawie przechowywania, noszenia oraz ewidencjonowania broni i amunicji)",
+      "legal_act": "Rozporządzenie w sprawie przechowywania, noszenia oraz ewidencjonowania broni i amunicji",
+      "legal_reference": "§5 ust. 2",
+      "correct_answer_ids": [{"id": "150_02", "label_id": "b"}],
+      "answers": [
+        {"id": "150_01", "label_id": "a", "text": "powyżej 100 egzemplarzy", "is_correct": false},
+        {"id": "150_02", "label_id": "b", "text": "powyżej 50 egzemplarzy", "is_correct": true},
+        {"id": "150_03", "label_id": "c", "text": "powyżej 20 egzemplarzy", "is_correct": false}
+      ]
+    },
+    {
+      "number": 151,
+      "question": "Osoby posiadające broń i amunicję do broni palnej w celach kolekcjonerskich oraz pamiątkowych, w przypadku przechowywania tej broni i amunicji poza urządzeniami spełniającymi wymagania co najmniej klasy S1 według normy PN-EN 14450, mogą je przechowywać:",
+      "legal_basis": "(§6 ust. 1 rozporządzenia w sprawie przechowywania, noszenia oraz ewidencjonowania broni i amunicji)",
+      "legal_act": "Rozporządzenie w sprawie przechowywania, noszenia oraz ewidencjonowania broni i amunicji",
+      "legal_reference": "§6 ust. 1",
+      "correct_answer_ids": [{"id": "151_01", "label_id": "a"}],
+      "answers": [
+        {"id": "151_01", "label_id": "a", "text": "w gablotach przeznaczonych do przechowywania broni", "is_correct": true},
+        {"id": "151_02", "label_id": "b", "text": "na specjalnie przystosowanych regałach", "is_correct": false},
+        {"id": "151_03", "label_id": "c", "text": "przechowywanie broni i amunicji poza urządzeniami spełniającymi wymagania co najmniej klasy S1 według norm PN-EN 14450 jest zabronione", "is_correct": false}
+      ]
+    },
+    {
+      "number": 152,
+      "question": "Broń palną nosi się:",
+      "legal_basis": "(§8 ust. 1 rozporządzenia w sprawie przechowywania, noszenia oraz ewidencjonowania broni i amunicji)",
+      "legal_act": "Rozporządzenie w sprawie przechowywania, noszenia oraz ewidencjonowania broni i amunicji",
+      "legal_reference": "§8 ust. 1",
+      "correct_answer_ids": [{"id": "152_03", "label_id": "c"}],
+      "answers": [
+        {"id": "152_01", "label_id": "a", "text": "wyłącznie w kasetach na broń", "is_correct": false},
+        {"id": "152_02", "label_id": "b", "text": "w pudełku, w którym zakupiono broń", "is_correct": false},
+        {"id": "152_03", "label_id": "c", "text": "kaburach lub futerałach", "is_correct": true}
+      ]
+    },
+    {
+      "number": 153,
+      "question": "Broń palną przeznaczoną do ochrony osobistej nosi się:",
+      "legal_basis": "(§8 ust. 2 rozporządzenia w sprawie przechowywania, noszenia oraz ewidencjonowania broni i amunicji)",
+      "legal_act": "Rozporządzenie w sprawie przechowywania, noszenia oraz ewidencjonowania broni i amunicji",
+      "legal_reference": "§8 ust. 2",
+      "correct_answer_ids": [{"id": "153_01", "label_id": "a"}],
+      "answers": [
+        {"id": "153_01", "label_id": "a", "text": "w sposób jak najmniej widoczny", "is_correct": true},
+        {"id": "153_02", "label_id": "b", "text": "w sposób umożliwiający jej szybkie dobycie", "is_correct": false},
+        {"id": "153_03", "label_id": "c", "text": "w sposób widoczny, w kaburze przylegającej do ciała", "is_correct": false}
+      ]
+    },
+    {
+      "number": 154,
+      "question": "Zakaz noszenia lub przemieszczania w stanie rozładowanym broni i amunicji, na obszarze całego państwa lub na określonych obszarach, na czas określony, w odniesieniu do wszelkiej broni lub niektórych jej rodzajów, może wprowadzić:",
+      "legal_basis": "(art. 33 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 33 ust. 1",
+      "correct_answer_ids": [{"id": "154_02", "label_id": "b"}],
+      "answers": [
+        {"id": "154_01", "label_id": "a", "text": "Prezydent, w drodze rozporządzenia", "is_correct": false},
+        {"id": "154_02", "label_id": "b", "text": "minister właściwy do spraw wewnętrznych, w drodze rozporządzenia", "is_correct": true},
+        {"id": "154_03", "label_id": "c", "text": "Komendant Główny Policji, w drodze zarządzenia", "is_correct": false}
+      ]
+    },
+    {
+      "number": 155,
+      "question": "Przewóz broni i amunicji przez terytorium Rzeczypospolitej Polskiej może nastąpić na podstawie:",
+      "legal_basis": "(art. 34 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 34",
+      "correct_answer_ids": [{"id": "155_01", "label_id": "a"}],
+      "answers": [
+        {"id": "155_01", "label_id": "a", "text": "zaświadczenia wydanego przez właściwego konsula Rzeczypospolitej Polskiej", "is_correct": true},
+        {"id": "155_02", "label_id": "b", "text": "zgody właściwego organu Policji", "is_correct": false},
+        {"id": "155_03", "label_id": "c", "text": "paszportu", "is_correct": false}
+      ]
+    },
+    {
+      "number": 156,
+      "question": "Przewóz broni i amunicji przez terytorium Rzeczypospolitej Polskiej, przez obywateli państwa członkowskiego Unii Europejskiej może nastąpić na podstawie:",
+      "legal_basis": "(art. 34 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 34",
+      "correct_answer_ids": [{"id": "156_03", "label_id": "c"}],
+      "answers": [
+        {"id": "156_01", "label_id": "a", "text": "paszportu", "is_correct": false},
+        {"id": "156_02", "label_id": "b", "text": "zgody właściwego organu Policji", "is_correct": false},
+        {"id": "156_03", "label_id": "c", "text": "Europejskiej karty broni palnej", "is_correct": true}
+      ]
+    },
+    {
+      "number": 157,
+      "question": "Przewożenie broni i amunicji środkami transportu publicznego:",
+      "legal_basis": "(art. 35 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 35",
+      "correct_answer_ids": [{"id": "157_02", "label_id": "b"}],
+      "answers": [
+        {"id": "157_01", "label_id": "a", "text": "jest zabronione", "is_correct": false},
+        {"id": "157_02", "label_id": "b", "text": "jest dopuszczalne przy zachowaniu niezbędnych środków bezpieczeństwa, pod warunkiem, że broń i amunicja są zabezpieczone w sposób uniemożliwiający powstanie zagrożenia życia, zdrowia lub mienia", "is_correct": true},
+        {"id": "157_03", "label_id": "c", "text": "jest dozwolone wyłącznie za zgodą właściwego organu Policji", "is_correct": false}
+      ]
+    },
+    {
+      "number": 158,
+      "question": "Przewożenie broni i amunicji w kabinach pasażerskich statków powietrznych przez osoby inne niż specjalnie do tego upoważnione na podstawie odrębnych przepisów jest:",
+      "legal_basis": "(art. 35 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 35",
+      "correct_answer_ids": [{"id": "158_01", "label_id": "a"}],
+      "answers": [
+        {"id": "158_01", "label_id": "a", "text": "zakazane", "is_correct": true},
+        {"id": "158_02", "label_id": "b", "text": "dozwolone", "is_correct": false},
+        {"id": "158_03", "label_id": "c", "text": "dozwolone wyłącznie za zgodą właściwego organu Policji", "is_correct": false}
+      ]
+    },
+    {
+      "number": 159,
+      "question": "W środkach transportu publicznego, służących do przewozu pasażerów, broń przewozi się:",
+      "legal_basis": "(§2 ust. 1 rozporządzenia w sprawie przewożenia broni i amunicji środkami transportu publicznego)",
+      "legal_act": "Rozporządzenie w sprawie przewożenia broni i amunicji środkami transportu publicznego",
+      "legal_reference": "§2 ust. 1",
+      "correct_answer_ids": [{"id": "159_02", "label_id": "b"}],
+      "answers": [
+        {"id": "159_01", "label_id": "a", "text": "w stanie załadowanym, z amunicją w magazynkach nabojowych", "is_correct": false},
+        {"id": "159_02", "label_id": "b", "text": "w stanie rozładowanym, bez amunicji w komorze nabojowej i w magazynkach nabojowych z wyłączeniem broni do ochrony osobistej oraz ochrony osób i mienia", "is_correct": true},
+        {"id": "159_03", "label_id": "c", "text": "w środkach transportu publicznego przewożenie broni jest zabronione", "is_correct": false}
+      ]
+    },
+    {
+      "number": 160,
+      "question": "W środkach transportu publicznego, służących do przewozu pasażerów, broń do ochrony osobistej, ochrony bezpieczeństwa innych osób oraz mienia:",
+      "legal_basis": "(§2 ust. 2 rozporządzenia w sprawie przewożenia broni i amunicji środkami transportu publicznego)",
+      "legal_act": "Rozporządzenie w sprawie przewożenia broni i amunicji środkami transportu publicznego",
+      "legal_reference": "§2 ust. 2",
+      "correct_answer_ids": [{"id": "160_01", "label_id": "a"}],
+      "answers": [
+        {"id": "160_01", "label_id": "a", "text": "może być załadowana bez wprowadzonego naboju do komory nabojowej i przewożona w stanie zabezpieczonym", "is_correct": true},
+        {"id": "160_02", "label_id": "b", "text": "musi być rozładowana, bez amunicji w komorze nabojowej i w magazynkach oraz przewożona w stanie zabezpieczonym", "is_correct": false},
+        {"id": "160_03", "label_id": "c", "text": "może być załadowana z wprowadzonym nabojem do komory nabojowej i przewożona w stanie zabezpieczonym", "is_correct": false}
+      ]
+    },
+    {
+      "number": 161,
+      "question": "Amunicję przewozi się środkami transportu publicznego:",
+      "legal_basis": "(§3 ust. 1 rozporządzenia w sprawie przewożenia broni i amunicji środkami transportu publicznego)",
+      "legal_act": "Rozporządzenie w sprawie przewożenia broni i amunicji środkami transportu publicznego",
+      "legal_reference": "§3 ust. 1",
+      "correct_answer_ids": [{"id": "161_02", "label_id": "b"}],
+      "answers": [
+        {"id": "161_01", "label_id": "a", "text": "przy zachowaniu niezbędnych wymogów bezpieczeństwa, wykluczających możliwość przypadkowej eksplozji, w ilości do 200 sztuk", "is_correct": false},
+        {"id": "161_02", "label_id": "b", "text": "przy zachowaniu niezbędnych wymogów bezpieczeństwa, wykluczających możliwość przypadkowej eksplozji, w ilości uzasadnionej potrzebami osoby przewożącej", "is_correct": true},
+        {"id": "161_03", "label_id": "c", "text": "odpowiedzi a. i b. są nieprawidłowe", "is_correct": false}
+      ]
+    },
+    {
+      "number": 162,
+      "question": "Amunicję w środkach transportu przewozi się:",
+      "legal_basis": "(§3 ust. 2 rozporządzenia w sprawie przewożenia broni i amunicji środkami transportu publicznego)",
+      "legal_act": "Rozporządzenie w sprawie przewożenia broni i amunicji środkami transportu publicznego",
+      "legal_reference": "§3 ust. 2",
+      "correct_answer_ids": [{"id": "162_01", "label_id": "a"}],
+      "answers": [
+        {"id": "162_01", "label_id": "a", "text": "w opakowaniach fabrycznych przeznaczonych do sprzedaży detalicznej lub w pudełkach i pojemnikach, w sposób uniemożliwiający uderzenie w spłonkę naboju", "is_correct": true},
+        {"id": "162_02", "label_id": "b", "text": "w magazynkach nabojowych", "is_correct": false},
+        {"id": "162_03", "label_id": "c", "text": "przewożenie amunicji w środkach transportu jest zabronione", "is_correct": false}
+      ]
+    },
+    {
+      "number": 163,
+      "question": "Broń i amunicję w pasażerskich statkach powietrznych przewozi się:",
+      "legal_basis": "(§5 rozporządzenia w sprawie przewożenia broni i amunicji środkami transportu publicznego)",
+      "legal_act": "Rozporządzenie w sprawie przewożenia broni i amunicji środkami transportu publicznego",
+      "legal_reference": "§5",
+      "correct_answer_ids": [{"id": "163_03", "label_id": "c"}],
+      "answers": [
+        {"id": "163_01", "label_id": "a", "text": "w kasetce spełniającej wymagania co najmniej klasy S1 według normy PN-EN 14450", "is_correct": false},
+        {"id": "163_02", "label_id": "b", "text": "w bagażu podręcznym, informując o powyższym fakcie kapitana statku", "is_correct": false},
+        {"id": "163_03", "label_id": "c", "text": "w lukach bagażowych lub w miejscu wskazanym przez przewoźnika, jako bagaż rejestrowany, do którego pasażerowie nie mają dostępu", "is_correct": true}
+      ]
+    },
+    {
+      "number": 164,
+      "question": "Przesyłanie broni lub amunicji za pośrednictwem operatorów świadczących usługi pocztowe jest:",
+      "legal_basis": "(art. 36 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 36",
+      "correct_answer_ids": [{"id": "164_02", "label_id": "b"}],
+      "answers": [
+        {"id": "164_01", "label_id": "a", "text": "zabronione", "is_correct": false},
+        {"id": "164_02", "label_id": "b", "text": "dozwolone o ile świadczą oni tego rodzaju usługi", "is_correct": true},
+        {"id": "164_03", "label_id": "c", "text": "dopuszczalne za zgodą właściwego organu Policji", "is_correct": false}
+      ]
+    },
+    {
+      "number": 165,
+      "question": "Przywóz broni i amunicji, z państw niebędących państwami członkowskimi Unii Europejskiej, przez obywateli polskich wymaga:",
+      "legal_basis": "(art. 37 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 37 ust. 1",
+      "correct_answer_ids": [{"id": "165_01", "label_id": "a"}],
+      "answers": [
+        {"id": "165_01", "label_id": "a", "text": "uprzedniego wydania zaświadczenia przez właściwego konsula Rzeczypospolitej Polskiej", "is_correct": true},
+        {"id": "165_02", "label_id": "b", "text": "uprzedniego wydania zgody właściwego organu Policji", "is_correct": false},
+        {"id": "165_03", "label_id": "c", "text": "poświadczenia uprzedniej zgody przewozowej i zgody przewozowej", "is_correct": false}
+      ]
+    },
+    {
+      "number": 166,
+      "question": "Osobom deklarującym zakup broni palnej lub amunicji w innym państwie członkowskim Unii Europejskiej właściwy terytorialnie komendant wojewódzki Policji, na ich wniosek:",
+      "legal_basis": "(art. 37a uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 37a",
+      "correct_answer_ids": [{"id": "166_02", "label_id": "b"}],
+      "answers": [
+        {"id": "166_01", "label_id": "a", "text": "poświadcza zgodę przewozową", "is_correct": false},
+        {"id": "166_02", "label_id": "b", "text": "poświadcza uprzednią zgodę przewozową", "is_correct": true},
+        {"id": "166_03", "label_id": "c", "text": "wydaje zaświadczenie uprawniające do nabycia broni", "is_correct": false}
+      ]
+    },
+    {
+      "number": 167,
+      "question": "Wywóz broni i amunicji do państwa niebędącego państwem członkowskim Unii Europejskiej przez obywateli polskich wymaga:",
+      "legal_basis": "(art. 38 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 38 ust. 1",
+      "correct_answer_ids": [{"id": "167_03", "label_id": "c"}],
+      "answers": [
+        {"id": "167_01", "label_id": "a", "text": "zaświadczenia wydanego przez właściwego konsula Rzeczypospolitej Polskiej", "is_correct": false},
+        {"id": "167_02", "label_id": "b", "text": "uzyskaniu zgody właściwego organu państwa docelowego", "is_correct": false},
+        {"id": "167_03", "label_id": "c", "text": "zgody właściwego organu Policji", "is_correct": true}
+      ]
+    },
+    {
+      "number": 168,
+      "question": "Wywóz broni i amunicji za granicę przez obywateli polskich nie wymaga zgody właściwego organu Policji w przypadku:",
+      "legal_basis": "(art. 38 ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 38 ust. 2",
+      "correct_answer_ids": [{"id": "168_02", "label_id": "b"}],
+      "answers": [
+        {"id": "168_01", "label_id": "a", "text": "wyjazdu w celach turystycznych, na okres nie dłuższy niż 90 dni", "is_correct": false},
+        {"id": "168_02", "label_id": "b", "text": "wydania Europejskiej karty broni palnej, uprawniającej do wywozu broni na terytorium państw członkowskich Unii Europejskiej", "is_correct": true},
+        {"id": "168_03", "label_id": "c", "text": "wydania legitymacji osoby dopuszczonej do posiadania broni", "is_correct": false}
+      ]
+    },
+    {
+      "number": 169,
+      "question": "Komendant wojewódzki Policji odmawia poświadczenia uprzedniej zgody przewozowej i zgody przewozowej, jeżeli:",
+      "legal_basis": "(art. 43a uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 43a",
+      "correct_answer_ids": [{"id": "169_01", "label_id": "a"}],
+      "answers": [
+        {"id": "169_01", "label_id": "a", "text": "zachodzą okoliczności uzasadniające cofnięcie pozwolenia na broń", "is_correct": true},
+        {"id": "169_02", "label_id": "b", "text": "nie uiszczono opłaty skarbowej za ich poświadczenie", "is_correct": false},
+        {"id": "169_03", "label_id": "c", "text": "odpowiedzi a. i b. są prawidłowe", "is_correct": false}
+      ]
+    },
+    {
+      "number": 170,
+      "question": "Broń palna oraz inna broń zdolna do rażenia celów na odległość może być używana w celach szkoleniowych i sportowych:",
+      "legal_basis": "(art. 45 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 45",
+      "correct_answer_ids": [{"id": "170_03", "label_id": "c"}],
+      "answers": [
+        {"id": "170_01", "label_id": "a", "text": "z dala od skupisk ludzkich", "is_correct": false},
+        {"id": "170_02", "label_id": "b", "text": "na prywatnych posesjach", "is_correct": false},
+        {"id": "170_03", "label_id": "c", "text": "tylko na strzelnicach", "is_correct": true}
+      ]
+    },
+    {
+      "number": 171,
+      "question": "Strzelnice powinny być zlokalizowane, zbudowane i zorganizowane w sposób:",
+      "legal_basis": "(art. 46 ust. 1 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 46 ust. 1",
+      "correct_answer_ids": [{"id": "171_03", "label_id": "c"}],
+      "answers": [
+        {"id": "171_01", "label_id": "a", "text": "nienaruszający wymogów związanych z ochroną środowiska", "is_correct": false},
+        {"id": "171_02", "label_id": "b", "text": "wykluczający możliwość wydostania się poza ich obręb pocisku wystrzelonego z broni ze stanowiska strzeleckiego w sposób zgodny z regulaminem strzelnicy", "is_correct": false},
+        {"id": "171_03", "label_id": "c", "text": "odpowiedzi a. i b. są prawidłowe", "is_correct": true}
+      ]
+    },
+    {
+      "number": 172,
+      "question": "Szczegółowe zasady zachowania bezpieczeństwa na strzelnicy określa:",
+      "legal_basis": "(art. 46 ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 46 ust. 2",
+      "correct_answer_ids": [{"id": "172_01", "label_id": "a"}],
+      "answers": [
+        {"id": "172_01", "label_id": "a", "text": "regulamin strzelnicy", "is_correct": true},
+        {"id": "172_02", "label_id": "b", "text": "statut strzelnicy", "is_correct": false},
+        {"id": "172_03", "label_id": "c", "text": "prowadzący strzelanie", "is_correct": false}
+      ]
+    },
+    {
+      "number": 173,
+      "question": "Za bezpieczeństwo użytkowników strzelnicy oraz osób im towarzyszących odpowiada:",
+      "legal_basis": "(Rozdział 1 ust. 1 wzorcowego regulaminu bezpiecznego funkcjonowania strzelnic)",
+      "legal_act": "Wzorcowy regulamin bezpiecznego funkcjonowania strzelnic",
+      "legal_reference": "Rozdział 1 ust. 1",
+      "correct_answer_ids": [{"id": "173_03", "label_id": "c"}],
+      "answers": [
+        {"id": "173_01", "label_id": "a", "text": "właściciel strzelnicy", "is_correct": false},
+        {"id": "173_02", "label_id": "b", "text": "zarządca strzelnicy", "is_correct": false},
+        {"id": "173_03", "label_id": "c", "text": "prowadzący strzelanie", "is_correct": true}
+      ]
+    },
+    {
+      "number": 174,
+      "question": "Stanowiska strzeleckie dla osób korzystających ze strzelnicy:",
+      "legal_basis": "(Rozdział 1 ust. 1 wzorcowego regulaminu bezpiecznego funkcjonowania strzelnic)",
+      "legal_act": "Wzorcowy regulamin bezpiecznego funkcjonowania strzelnic",
+      "legal_reference": "Rozdział 1 ust. 1",
+      "correct_answer_ids": [{"id": "174_01", "label_id": "a"}],
+      "answers": [
+        {"id": "174_01", "label_id": "a", "text": "wyznacza prowadzący strzelanie", "is_correct": true},
+        {"id": "174_02", "label_id": "b", "text": "osoby korzystające ze strzelnicy wyznaczają sobie same", "is_correct": false},
+        {"id": "174_03", "label_id": "c", "text": "wyznacza właściciel strzelnicy", "is_correct": false}
+      ]
+    },
+    {
+      "number": 175,
+      "question": "Osobom towarzyszącym osobom korzystającym ze strzelnicy:",
+      "legal_basis": "(Rozdział 1 ust. 2 wzorcowego regulaminu bezpiecznego funkcjonowania strzelnic)",
+      "legal_act": "Wzorcowy regulamin bezpiecznego funkcjonowania strzelnic",
+      "legal_reference": "Rozdział 1 ust. 2",
+      "correct_answer_ids": [{"id": "175_02", "label_id": "b"}],
+      "answers": [
+        {"id": "175_01", "label_id": "a", "text": "zabrania się przebywania na terenie strzelnicy", "is_correct": false},
+        {"id": "175_02", "label_id": "b", "text": "zabrania się wchodzenia na stanowiska strzeleckie oraz styczności z bronią", "is_correct": true},
+        {"id": "175_03", "label_id": "c", "text": "zabrania się wnoszenia jedzenia i picia na teren strzelnic", "is_correct": false}
+      ]
+    },
+    {
+      "number": 176,
+      "question": "Używanie broni innych osób korzystających ze strzelnicy jest:",
+      "legal_basis": "(Rozdział 1 ust. 2 wzorcowego regulaminu bezpiecznego funkcjonowania strzelnic)",
+      "legal_act": "Wzorcowy regulamin bezpiecznego funkcjonowania strzelnic",
+      "legal_reference": "Rozdział 1 ust. 2",
+      "correct_answer_ids": [{"id": "176_03", "label_id": "c"}],
+      "answers": [
+        {"id": "176_01", "label_id": "a", "text": "zabronione", "is_correct": false},
+        {"id": "176_02", "label_id": "b", "text": "zabronione bez zgody prowadzącego strzelanie", "is_correct": false},
+        {"id": "176_03", "label_id": "c", "text": "zabronione bez zgody jej użytkownika", "is_correct": true}
+      ]
+    },
+    {
+      "number": 177,
+      "question": "Spożywanie alkoholu lub używanie środków odurzających oraz przebywanie osób będących pod ich wpływem na strzelnicy jest:",
+      "legal_basis": "(Rozdział 1 ust. 2 wzorcowego regulaminu bezpiecznego funkcjonowania strzelnic)",
+      "legal_act": "Wzorcowy regulamin bezpiecznego funkcjonowania strzelnic",
+      "legal_reference": "Rozdział 1 ust. 2",
+      "correct_answer_ids": [{"id": "177_03", "label_id": "c"}],
+      "answers": [
+        {"id": "177_01", "label_id": "a", "text": "dozwolone pod warunkiem wynajęcia strzelnicy przez zorganizowaną grupę osób", "is_correct": false},
+        {"id": "177_02", "label_id": "b", "text": "dozwolone za zgodą właściciela strzelnicy", "is_correct": false},
+        {"id": "177_03", "label_id": "c", "text": "zabronione", "is_correct": true}
+      ]
+    },
+    {
+      "number": 178,
+      "question": "Na strzelnicy, wyjmowanie broni odbywa się wyłącznie na stanowisku strzeleckim lub treningowym tylko:",
+      "legal_basis": "(Rozdział 2 ust. 2 wzorcowego regulaminu bezpiecznego funkcjonowania strzelnic)",
+      "legal_act": "Wzorcowy regulamin bezpiecznego funkcjonowania strzelnic",
+      "legal_reference": "Rozdział 2 ust. 2",
+      "correct_answer_ids": [{"id": "178_01", "label_id": "a"}],
+      "answers": [
+        {"id": "178_01", "label_id": "a", "text": "na polecenie prowadzącego strzelanie lub trening strzelecki", "is_correct": true},
+        {"id": "178_02", "label_id": "b", "text": "za zgodą właściciela strzelnicy", "is_correct": false},
+        {"id": "178_03", "label_id": "c", "text": "za zgodą zarządcy strzelnicy", "is_correct": false}
+      ]
+    },
+    {
+      "number": 179,
+      "question": "Na strzelnicy, strzelanie rozpoczyna się wyłącznie na komendę:",
+      "legal_basis": "(Rozdział 2 ust. 4 wzorcowego regulaminu bezpiecznego funkcjonowania strzelnic)",
+      "legal_act": "Wzorcowy regulamin bezpiecznego funkcjonowania strzelnic",
+      "legal_reference": "Rozdział 2 ust. 4",
+      "correct_answer_ids": [{"id": "179_02", "label_id": "b"}],
+      "answers": [
+        {"id": "179_01", "label_id": "a", "text": "właściciela strzelnicy", "is_correct": false},
+        {"id": "179_02", "label_id": "b", "text": "prowadzącego strzelanie", "is_correct": true},
+        {"id": "179_03", "label_id": "c", "text": "zarządcy strzelnicy", "is_correct": false}
+      ]
+    },
+    {
+      "number": 180,
+      "question": "Na strzelnicy, zakończenie strzelania zgłasza się:",
+      "legal_basis": "(Rozdział 2 ust. 5 wzorcowego regulaminu bezpiecznego funkcjonowania strzelnic)",
+      "legal_act": "Wzorcowy regulamin bezpiecznego funkcjonowania strzelnic",
+      "legal_reference": "Rozdział 2 ust. 5",
+      "correct_answer_ids": [{"id": "180_03", "label_id": "c"}],
+      "answers": [
+        {"id": "180_01", "label_id": "a", "text": "zakończenia strzelania nie zgłasza się", "is_correct": false},
+        {"id": "180_02", "label_id": "b", "text": "osobie znajdującej się na sąsiadującym stanowisku strzeleckim", "is_correct": false},
+        {"id": "180_03", "label_id": "c", "text": "prowadzącemu strzelanie", "is_correct": true}
+      ]
+    },
+    {
+      "number": 181,
+      "question": "Na strzelnicy, po zakończeniu strzelania:",
+      "legal_basis": "(Rozdział 2 ust. 6 wzorcowego regulaminu bezpiecznego funkcjonowania strzelnic)",
+      "legal_act": "Wzorcowy regulamin bezpiecznego funkcjonowania strzelnic",
+      "legal_reference": "Rozdział 2 ust. 6",
+      "correct_answer_ids": [{"id": "181_01", "label_id": "a"}],
+      "answers": [
+        {"id": "181_01", "label_id": "a", "text": "broń rozładowuje się i przedstawia do kontroli prowadzącemu strzelanie", "is_correct": true},
+        {"id": "181_02", "label_id": "b", "text": "broń rozładowuje się i chowa do kabury", "is_correct": false},
+        {"id": "181_03", "label_id": "c", "text": "broń rozładowuje się i pozostawia na stanowisku strzeleckim", "is_correct": false}
+      ]
+    },
+    {
+      "number": 182,
+      "question": "Na strzelnicy, po zakończeniu strzelania, rozładowaniu broni i przedstawieniu jej prowadzącemu strzelanie:",
+      "legal_basis": "(Rozdział 2 ust. 6 wzorcowego regulaminu bezpiecznego funkcjonowania strzelnic)",
+      "legal_act": "Wzorcowy regulamin bezpiecznego funkcjonowania strzelnic",
+      "legal_reference": "Rozdział 2 ust. 6",
+      "correct_answer_ids": [{"id": "182_02", "label_id": "b"}],
+      "answers": [
+        {"id": "182_01", "label_id": "a", "text": "podchodzi się do tarcz", "is_correct": false},
+        {"id": "182_02", "label_id": "b", "text": "opuszcza się stanowisko strzeleckie z bronią z otwartą komorą nabojową", "is_correct": true},
+        {"id": "182_03", "label_id": "c", "text": "opuszcza się stanowisko strzeleckie pozostawiając broń na stanowisku", "is_correct": false}
+      ]
+    },
+    {
+      "number": 183,
+      "question": "Na strzelnicy, podczas strzelania, komendę „STOP” może wydać:",
+      "legal_basis": "(Rozdział 3 ust. 4 wzorcowego regulaminu bezpiecznego funkcjonowania strzelnic)",
+      "legal_act": "Wzorcowy regulamin bezpiecznego funkcjonowania strzelnic",
+      "legal_reference": "Rozdział 3 ust. 4",
+      "correct_answer_ids": [{"id": "183_02", "label_id": "b"}],
+      "answers": [
+        {"id": "183_01", "label_id": "a", "text": "wyłącznie prowadzący strzelanie", "is_correct": false},
+        {"id": "183_02", "label_id": "b", "text": "prowadzący strzelanie lub inna osoba", "is_correct": true},
+        {"id": "183_03", "label_id": "c", "text": "prowadzący strzelanie lub zarządca strzelnicy", "is_correct": false}
+      ]
+    },
+    {
+      "number": 184,
+      "question": "Na strzelnicy, podczas strzelania, po komendzie „STOP”:",
+      "legal_basis": "(Rozdział 3 ust. 4 wzorcowego regulaminu bezpiecznego funkcjonowania strzelnic)",
+      "legal_act": "Wzorcowy regulamin bezpiecznego funkcjonowania strzelnic",
+      "legal_reference": "Rozdział 3 ust. 4",
+      "correct_answer_ids": [{"id": "184_01", "label_id": "a"}],
+      "answers": [
+        {"id": "184_01", "label_id": "a", "text": "strzelający bezzwłocznie przerywają strzelanie", "is_correct": true},
+        {"id": "184_02", "label_id": "b", "text": "strzelający przerywają strzelanie po wyczerpaniu amunicji w magazynku", "is_correct": false},
+        {"id": "184_03", "label_id": "c", "text": "strzelający rozładowują broń i przedstawiają ją prowadzącemu strzelanie", "is_correct": false}
+      ]
+    },
+    {
+      "number": 185,
+      "question": "Kto porzuca broń palną lub amunicję, która pozostaje w jego dyspozycji, podlega:",
+      "legal_basis": "(art. 50 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 50",
+      "correct_answer_ids": [{"id": "185_02", "label_id": "b"}],
+      "answers": [
+        {"id": "185_01", "label_id": "a", "text": "wyłącznie karze aresztu albo grzywny", "is_correct": false},
+        {"id": "185_02", "label_id": "b", "text": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2", "is_correct": true},
+        {"id": "185_03", "label_id": "c", "text": "wyłącznie karze grzywny", "is_correct": false}
+      ]
+    },
+    {
+      "number": 186,
+      "question": "Kto nie dopełnia obowiązku rejestracji broni, podlega:",
+      "legal_basis": "(art. 51 ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 51 ust. 2",
+      "correct_answer_ids": [{"id": "186_02", "label_id": "b"}],
+      "answers": [
+        {"id": "186_01", "label_id": "a", "text": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2", "is_correct": false},
+        {"id": "186_02", "label_id": "b", "text": "karze aresztu albo grzywny", "is_correct": true},
+        {"id": "186_03", "label_id": "c", "text": "wyłącznie karze grzywny", "is_correct": false}
+      ]
+    },
+    {
+      "number": 187,
+      "question": "Kto nie dopełnia obowiązku zawiadomienia Policji o utracie lub zbyciu innej osobie broni i amunicji do tej broni, podlega:",
+      "legal_basis": "(art. 51 ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 51 ust. 2",
+      "correct_answer_ids": [{"id": "187_03", "label_id": "c"}],
+      "answers": [
+        {"id": "187_01", "label_id": "a", "text": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2", "is_correct": false},
+        {"id": "187_02", "label_id": "b", "text": "wyłącznie karze grzywny", "is_correct": false},
+        {"id": "187_03", "label_id": "c", "text": "karze aresztu albo grzywny", "is_correct": true}
+      ]
+    },
+    {
+      "number": 188,
+      "question": "Kto nosi broń, znajdując się w stanie po użyciu alkoholu, podlega:",
+      "legal_basis": "(art. 51 ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 51 ust. 2",
+      "correct_answer_ids": [{"id": "188_02", "label_id": "b"}],
+      "answers": [
+        {"id": "188_01", "label_id": "a", "text": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2", "is_correct": false},
+        {"id": "188_02", "label_id": "b", "text": "karze aresztu albo grzywny", "is_correct": true},
+        {"id": "188_03", "label_id": "c", "text": "wyłącznie karze grzywny", "is_correct": false}
+      ]
+    },
+    {
+      "number": 189,
+      "question": "Kto przechowuje oraz nosi broń i amunicję w sposób umożliwiający dostęp do nich osób nieuprawnionych, podlega:",
+      "legal_basis": "(art. 51 ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 51 ust. 2",
+      "correct_answer_ids": [{"id": "189_02", "label_id": "b"}],
+      "answers": [
+        {"id": "189_01", "label_id": "a", "text": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2", "is_correct": false},
+        {"id": "189_02", "label_id": "b", "text": "karze aresztu albo grzywny", "is_correct": true},
+        {"id": "189_03", "label_id": "c", "text": "wyłącznie karze grzywny", "is_correct": false}
+      ]
+    },
+    {
+      "number": 190,
+      "question": "Kto używa w celach szkoleniowych lub sportowych broni zdolnej do rażenia celów na odległość poza strzelnicami, podlega:",
+      "legal_basis": "(art. 51 ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 51 ust. 2",
+      "correct_answer_ids": [{"id": "190_01", "label_id": "a"}],
+      "answers": [
+        {"id": "190_01", "label_id": "a", "text": "karze aresztu albo grzywny", "is_correct": true},
+        {"id": "190_02", "label_id": "b", "text": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2", "is_correct": false},
+        {"id": "190_03", "label_id": "c", "text": "wyłącznie karze grzywny", "is_correct": false}
+      ]
+    },
+    {
+      "number": 191,
+      "question": "Kto narusza przepisy regulaminu określającego zasady zachowania bezpieczeństwa na strzelnicy, podlega:",
+      "legal_basis": "(art. 51 ust. 2 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 51 ust. 2",
+      "correct_answer_ids": [{"id": "191_03", "label_id": "c"}],
+      "answers": [
+        {"id": "191_01", "label_id": "a", "text": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2", "is_correct": false},
+        {"id": "191_02", "label_id": "b", "text": "wyłącznie karze grzywny", "is_correct": false},
+        {"id": "191_03", "label_id": "c", "text": "karze aresztu albo grzywny", "is_correct": true}
+      ]
+    },
+    {
+      "number": 192,
+      "question": "Kto posiada broń, nie mając przy sobie legitymacji posiadacza broni lub Europejskiej karty broni palnej albo innego dokumentu upoważniającego do posiadania broni, podlega",
+      "legal_basis": "(art. 51 ust. 3 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 51 ust. 3",
+      "correct_answer_ids": [{"id": "192_03", "label_id": "c"}],
+      "answers": [
+        {"id": "192_01", "label_id": "a", "text": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2", "is_correct": false},
+        {"id": "192_02", "label_id": "b", "text": "karze aresztu albo grzywny", "is_correct": false},
+        {"id": "192_03", "label_id": "c", "text": "wyłącznie karze grzywny", "is_correct": true}
+      ]
+    },
+    {
+      "number": 193,
+      "question": "Kto posiada broń, nie mając przy sobie legitymacji osoby dopuszczonej do posiadania broni i świadectwa broni, podlega",
+      "legal_basis": "(art. 51 ust. 3 uobia)",
+      "legal_act": "Ustawa o broni i amunicji",
+      "legal_reference": "art. 51 ust. 3",
+      "correct_answer_ids": [{"id": "193_01", "label_id": "a"}],
+      "answers": [
+        {"id": "193_01", "label_id": "a", "text": "wyłącznie karze grzywny", "is_correct": true},
+        {"id": "193_02", "label_id": "b", "text": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2", "is_correct": false},
+        {"id": "193_03", "label_id": "c", "text": "wyłącznie karze aresztu albo grzywny", "is_correct": false}
+      ]
+    },
+    {
+      "number": 194,
+      "question": "Nie popełnia przestępstwa, kto działając w obronie koniecznej odpiera bezpośredni, bezprawny zamach:",
+      "legal_basis": "(art. 25 kodeksu karnego)",
+      "legal_act": "Kodeks karny",
+      "legal_reference": "art. 25",
+      "correct_answer_ids": [{"id": "194_02", "label_id": "b"}],
+      "answers": [
+        {"id": "194_01", "label_id": "a", "text": "na życie, zdrowie, wolność człowieka oraz na mienie wielkiej wartości", "is_correct": false},
+        {"id": "194_02", "label_id": "b", "text": "na jakiekolwiek dobro chronione prawem", "is_correct": true},
+        {"id": "194_03", "label_id": "c", "text": "tylko na życie i zdrowie człowieka", "is_correct": false}
+      ]
+    },
+    {
+      "number": 195,
+      "question": "Do przekroczenia granic obrony koniecznej może dojść w sytuacji, gdy:",
+      "legal_basis": "(art. 25 kodeksu karnego)",
+      "legal_act": "Kodeks karny",
+      "legal_reference": "art. 25",
+      "correct_answer_ids": [{"id": "195_01", "label_id": "a"}],
+      "answers": [
+        {"id": "195_01", "label_id": "a", "text": "działania obronne wyprzedziły zamach", "is_correct": true},
+        {"id": "195_02", "label_id": "b", "text": "dobrem ratowanym nie było życie", "is_correct": false},
+        {"id": "195_03", "label_id": "c", "text": "dobro ratowane było niskiej wartości", "is_correct": false}
+      ]
+    },
+    {
+      "number": 196,
+      "question": "Do przekroczenia granic obrony koniecznej może dojść w sytuacji, gdy:",
+      "legal_basis": "(art. 25 kodeksu karnego)",
+      "legal_act": "Kodeks karny",
+      "legal_reference": "art. 25",
+      "correct_answer_ids": [{"id": "196_03", "label_id": "c"}],
+      "answers": [
+        {"id": "196_01", "label_id": "a", "text": "dobrem ratowanym nie było życie", "is_correct": false},
+        {"id": "196_02", "label_id": "b", "text": "dobro ratowane było niskiej wartości", "is_correct": false},
+        {"id": "196_03", "label_id": "c", "text": "działania obronne były niewspółmierne do niebezpieczeństwa zamachu", "is_correct": true}
+      ]
+    },
+    {
+      "number": 197,
+      "question": "Kto bez wymaganego zezwolenia wyrabia broń palną, podlega:",
+      "legal_basis": "(art. 263 kodeksu karnego)",
+      "legal_act": "Kodeks karny",
+      "legal_reference": "art. 263",
+      "correct_answer_ids": [{"id": "197_01", "label_id": "a"}],
+      "answers": [
+        {"id": "197_01", "label_id": "a", "text": "karze pozbawienia wolności od roku do lat 10", "is_correct": true},
+        {"id": "197_02", "label_id": "b", "text": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2", "is_correct": false},
+        {"id": "197_03", "label_id": "c", "text": "karze aresztu albo grzywny", "is_correct": false}
+      ]
+    },
+    {
+      "number": 198,
+      "question": "Kto bez wymaganego zezwolenia posiada broń palną lub amunicję, podlega:",
+      "legal_basis": "(art. 263 kodeksu karnego)",
+      "legal_act": "Kodeks karny",
+      "legal_reference": "art. 263",
+      "correct_answer_ids": [{"id": "198_03", "label_id": "c"}],
+      "answers": [
+        {"id": "198_01", "label_id": "a", "text": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2", "is_correct": false},
+        {"id": "198_02", "label_id": "b", "text": "karze aresztu albo grzywny", "is_correct": false},
+        {"id": "198_03", "label_id": "c", "text": "karze pozbawienia wolności od 6 miesięcy do lat 8", "is_correct": true}
+      ]
+    },
+    {
+      "number": 199,
+      "question": "Kto, mając zezwolenie na posiadanie broni palnej lub amunicji, udostępnia lub przekazuje ją osobie nieuprawnionej, podlega:",
+      "legal_basis": "(art. 263 kodeksu karnego)",
+      "legal_act": "Kodeks karny",
+      "legal_reference": "art. 263",
+      "correct_answer_ids": [{"id": "199_01", "label_id": "a"}],
+      "answers": [
+        {"id": "199_01", "label_id": "a", "text": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2", "is_correct": true},
+        {"id": "199_02", "label_id": "b", "text": "karze aresztu albo grzywny", "is_correct": false},
+        {"id": "199_03", "label_id": "c", "text": "grzywnie", "is_correct": false}
+      ]
+    },
+    {
+      "number": 200,
+      "question": "Kto nieumyślnie powoduje utratę broni palnej lub amunicji, która zgodnie z prawem pozostaje w jego dyspozycji, podlega:",
+      "legal_basis": "(art. 263 kodeksu karnego)",
+      "legal_act": "Kodeks karny",
+      "legal_reference": "art. 263",
+      "correct_answer_ids": [{"id": "200_02", "label_id": "b"}],
+      "answers": [
+        {"id": "200_01", "label_id": "a", "text": "wyłącznie karze aresztu albo grzywny", "is_correct": false},
+        {"id": "200_02", "label_id": "b", "text": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku", "is_correct": true},
+        {"id": "200_03", "label_id": "c", "text": "grzywnie", "is_correct": false}
+      ]
+    }
+  ]
+}
