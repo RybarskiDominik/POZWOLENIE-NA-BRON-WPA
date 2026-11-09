@@ -25,7 +25,7 @@ from PySide6.QtWidgets import (
     QWidget,
 )
 
-from ..paths import MATERIALS_DIRECTORY
+from ..file_manager.file_manager import MATERIALS_DIRECTORY
 from ..study import load_settings
 from .question_view import highlight_difficult_questions, show_question_details
 

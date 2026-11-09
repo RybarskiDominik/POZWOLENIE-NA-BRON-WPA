@@ -22,16 +22,16 @@ from PySide6.QtWidgets import (
 
 from ..catalog import import_explanations, import_question_sets, import_questions
 from ..importers import prepare_explanations, prepare_question_sets, preview_import
-from ..initial_import import LEGAL_BASIS_PATH
-from ..paths import QUESTIONS_DIRECTORY
+from ..file_manager.file_manager import QUESTIONS_DIRECTORY
 from ..study import load_settings, save_settings
 from .question_view import highlight_difficult_questions, show_question_details
 
 
 class QuestionManager(QDialog):
-    def __init__(self, catalog, sheet_id=None, set_id=None, parent=None):
+    def __init__(self, catalog, sheet_id=None, set_id=None, parent=None, *, questions_directory=QUESTIONS_DIRECTORY):
         super().__init__(parent)
         self.catalog = catalog
+        self.questions_directory = Path(questions_directory)
         self.setWindowTitle("Pytania i zestawy")
         self.resize(950, 650)
         layout = QVBoxLayout(self)
@@ -206,9 +206,9 @@ class QuestionManager(QDialog):
                     self.questions.setCurrentRow(-1)
         self.update_difficult_button()
 
-    def choose_file(self, title, initial_path=QUESTIONS_DIRECTORY):
+    def choose_file(self, title, initial_path=None):
         filename, _ = QFileDialog.getOpenFileName(
-            self, title, str(initial_path), "JSON (*.json)"
+            self, title, str(initial_path or self.questions_directory), "JSON (*.json)"
         )
         return Path(filename) if filename else None
 
@@ -269,7 +269,10 @@ class QuestionManager(QDialog):
 
     def import_explanations(self):
         questions = self.sheet_questions()
-        path = self.choose_file("Wybierz plik objaśnień", LEGAL_BASIS_PATH)
+        path = self.choose_file(
+            "Wybierz plik objaśnień",
+            self.questions_directory / "egzamin_na_broń_WPA_200_podstawy_prawne.json",
+        )
         if path is None:
             return
         prepared = prepare_explanations(path, questions)

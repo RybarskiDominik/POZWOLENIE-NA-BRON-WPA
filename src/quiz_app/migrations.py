@@ -8,7 +8,7 @@ from contextlib import closing
 from pathlib import Path
 
 from .models import DEFAULT_SETS
-from .paths import SCHEMA_PATH
+from .file_manager.file_manager import SCHEMA_PATH
 
 APPLICATION_ID = 0x51555A33
 BASE_SCHEMA = SCHEMA_PATH

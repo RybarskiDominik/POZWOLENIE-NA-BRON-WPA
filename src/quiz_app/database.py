@@ -5,7 +5,7 @@ from contextlib import contextmanager
 from pathlib import Path
 
 from .migrations import APPLICATION_ID, SCHEMA_VERSION, update_database
-from .paths import DATABASE_PATH
+from .file_manager.file_manager import DATABASE_PATH
 
 __all__ = ["APPLICATION_ID", "DATABASE_PATH", "SCHEMA_VERSION", "Database"]
 

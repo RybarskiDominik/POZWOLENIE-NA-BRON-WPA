@@ -3,7 +3,8 @@
 import sqlite3
 from copy import deepcopy
 
-from PySide6.QtCore import QTimer
+from PySide6.QtCore import QEvent, QSize, Qt, QTimer
+from PySide6.QtGui import QAction, QIcon, QPalette
 from PySide6.QtWidgets import (
     QCheckBox,
     QComboBox,
@@ -16,13 +17,16 @@ from PySide6.QtWidgets import (
     QSizePolicy,
     QStackedWidget,
     QToolBar,
+    QToolButton,
     QVBoxLayout,
     QWidget,
 )
 
 from ..catalog import ERROR_RATE_THRESHOLD_PERCENT, Catalog
+from ..database import Database
+from ..initial_import import import_on_first_start
 from ..models import Settings
-from ..paths import APP_NAME
+from ..file_manager.file_manager import APP_NAME, UI_DIRECTORY, FileManager
 from ..quiz import QuizSession
 from ..study import (
     cancel_session,
@@ -35,20 +39,23 @@ from ..study import (
     unseen_questions,
 )
 from .question_manager import QuestionManager
+from .program_settings_window import ProgramSettingsWindow
 from .quiz_page import QuizPage, text_label
 from .statistics_panel import StatisticsPanel
 from .study_window import StudyWindow
 
 
 class MainWindow(QMainWindow):
-    def __init__(self, database):
+    def __init__(self, database, file_manager=None):
         super().__init__()
         self.database = database
+        self.file_manager = file_manager or FileManager(database_path=database.path)
         self.catalog = Catalog(database)
         settings = load_settings(database)
         self.sheet_id = None
         self.session = None
         self.study_window = None
+        self.settings_window = None
         self.setWindowTitle(f"{APP_NAME} — pytania, quizy i testy")
         self.resize(1000, 720)
         self.setMinimumSize(760, 540)
@@ -69,6 +76,7 @@ class MainWindow(QMainWindow):
         self.autosave_timer.setInterval(5000)
         self.autosave_timer.timeout.connect(self.autosave)
         self.autosave_timer.start()
+        self.settings_window = ProgramSettingsWindow(self.file_manager, self)
 
     def build_toolbar(self):
         toolbar = QToolBar("Nawigacja")
@@ -147,24 +155,29 @@ class MainWindow(QMainWindow):
         self.pages.addWidget(self.result_page)
 
     def build_status_bar(self):
+        self.settings_action = QAction("Ustawienia…", self)
+        self.settings_action.triggered.connect(self.show_settings)
+        self.settings_button = QToolButton()
+        self.settings_button.setDefaultAction(self.settings_action)
+        self.settings_button.setToolButtonStyle(Qt.ToolButtonStyle.ToolButtonIconOnly)
+        self.settings_button.setAutoRaise(True)
+        self.settings_button.setIconSize(QSize(22, 22))
+        self.settings_button.setAccessibleName("Ustawienia programu")
+        self.update_settings_icon()
+        self.statusBar().addPermanentWidget(self.settings_button)
         self.status_text = QLabel()
         self.statusBar().addWidget(self.status_text, 1)
-        self.statusBar().addPermanentWidget(self.shuffle_answers)
-        self.reset_statistics_button = QPushButton("Resetuj statystyki")
-        self.reset_statistics_button.setToolTip(
-            "Resetuje wyniki wybranego arkusza. Zachowuje quiz, ustawienia, "
-            "listę problematycznych pytań, oznaczenia trudne i cykle."
-        )
-        self.reset_pool_button = QPushButton("Resetuj pulę pytań")
-        self.reset_pool_button.setToolTip(
-            "Odblokowuje pytania we wszystkich zestawach wybranego arkusza. "
-            "Zachowuje wyniki, oznaczenia i bieżący quiz."
-        )
-        self.reset_statistics_button.clicked.connect(self.reset_sheet_statistics)
-        self.reset_pool_button.clicked.connect(self.reset_sheet_pool)
-        for button in (self.reset_statistics_button, self.reset_pool_button):
-            button.setStyleSheet("padding: 4px 10px;")
-            self.statusBar().addPermanentWidget(button)
+
+    def update_settings_icon(self):
+        dark_background = self.palette().color(QPalette.ColorRole.Window).lightness() < 128
+        variant = "light" if dark_background else "dark"
+        self.settings_action.setIcon(QIcon(str(UI_DIRECTORY / f"Zębatka-{variant}.svg")))
+
+    def changeEvent(self, event):
+        super().changeEvent(event)
+        if event.type() in (QEvent.Type.PaletteChange, QEvent.Type.ApplicationPaletteChange):
+            if hasattr(self, "settings_action"):
+                self.update_settings_icon()
 
     def reload_sheets(self, sheet_id=None):
         self.sheet_selector.blockSignals(True)
@@ -265,8 +278,8 @@ class MainWindow(QMainWindow):
         )
         self.start_button.setEnabled(bool(self.question_pool))
         self.statistics_action.setEnabled(self.sheet_id is not None)
-        self.reset_statistics_button.setEnabled(self.sheet_id is not None)
-        self.reset_pool_button.setEnabled(self.sheet_id is not None)
+        if self.settings_window is not None:
+            self.settings_window.refresh()
         self.status_text.setText(
             f"Pytań w zestawie: {len(self.question_pool)} · Pozostało: {next_count}"
             if self.sheet_id is not None
@@ -343,6 +356,7 @@ class MainWindow(QMainWindow):
             self.sheet_selector.currentData(),
             self.set_selector.currentData(),
             self,
+            questions_directory=self.file_manager.questions_directory,
         )
         self.autosave_timer.stop()
         try:
@@ -359,6 +373,7 @@ class MainWindow(QMainWindow):
                 self.sheet_selector.currentData(),
                 self.set_selector.currentData(),
                 self,
+                materials_path=self.file_manager.materials_directory,
             )
         elif not self.study_window.isVisible():
             self.study_window.open_material()
@@ -374,6 +389,41 @@ class MainWindow(QMainWindow):
             self.database, self.catalog, self.sheet_selector.currentData(), set_id, self
         ).exec()
         self.refresh_home()
+
+    def show_settings(self):
+        self.settings_window.refresh()
+        self.settings_window.show()
+        self.settings_window.raise_()
+        self.settings_window.activateWindow()
+
+    def close_study_window(self):
+        if self.study_window is not None:
+            self.study_window.close()
+            self.study_window.deleteLater()
+            self.study_window = None
+
+    def refresh_database(self):
+        self.close_study_window()
+        self.session = None
+        self.catalog = Catalog(self.database)
+        settings = load_settings(self.database)
+        self.pages.setCurrentWidget(self.home_page)
+        self.reload_sheets(settings.sheet_id)
+
+    def switch_database(self, path):
+        if not self.save_preferences() or not self.save_current():
+            self.resume_timer()
+            return
+        self.autosave_timer.stop()
+        try:
+            database = Database(path)
+            import_on_first_start(database, self.file_manager.questions_directory)
+            self.file_manager.set_path("database", database.path)
+            self.database = database
+            self.refresh_database()
+        finally:
+            self.autosave_timer.start()
+            self.resume_timer()
 
     def start_quiz(self):
         self.refresh_home()
@@ -553,6 +603,7 @@ class MainWindow(QMainWindow):
             event.ignore()
             return
         self.autosave_timer.stop()
+        self.settings_window.close()
         if self.study_window is not None:
             self.study_window.close()
         super().closeEvent(event)
